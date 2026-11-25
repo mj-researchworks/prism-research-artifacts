@@ -1,0 +1,8126 @@
+{
+  "Beauty & Health/Aromatherapy Diffusers": {
+    "key": "Beauty & Health/Aromatherapy Diffusers",
+    "l1": "Beauty & Health",
+    "l2": "Aromatherapy Diffusers",
+    "product_count": 15,
+    "index_path": "indexes/Beauty & Health/Aromatherapy Diffusers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Beauty General": {
+    "key": "Beauty & Health/Beauty General",
+    "l1": "Beauty & Health",
+    "l2": "Beauty General",
+    "product_count": 867,
+    "index_path": "indexes/Beauty & Health/Beauty General",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Disposable Cups": {
+    "key": "Beauty & Health/Disposable Cups",
+    "l1": "Beauty & Health",
+    "l2": "Disposable Cups",
+    "product_count": 73,
+    "index_path": "indexes/Beauty & Health/Disposable Cups",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Disposable Plates": {
+    "key": "Beauty & Health/Disposable Plates",
+    "l1": "Beauty & Health",
+    "l2": "Disposable Plates",
+    "product_count": 20,
+    "index_path": "indexes/Beauty & Health/Disposable Plates",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Feather Dusters": {
+    "key": "Beauty & Health/Feather Dusters",
+    "l1": "Beauty & Health",
+    "l2": "Feather Dusters",
+    "product_count": 15,
+    "index_path": "indexes/Beauty & Health/Feather Dusters",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Fragrance & Body": {
+    "key": "Beauty & Health/Fragrance & Body",
+    "l1": "Beauty & Health",
+    "l2": "Fragrance & Body",
+    "product_count": 149,
+    "index_path": "indexes/Beauty & Health/Fragrance & Body",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Hair Care": {
+    "key": "Beauty & Health/Hair Care",
+    "l1": "Beauty & Health",
+    "l2": "Hair Care",
+    "product_count": 381,
+    "index_path": "indexes/Beauty & Health/Hair Care",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Lighters": {
+    "key": "Beauty & Health/Lighters",
+    "l1": "Beauty & Health",
+    "l2": "Lighters",
+    "product_count": 35,
+    "index_path": "indexes/Beauty & Health/Lighters",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Lint Removers": {
+    "key": "Beauty & Health/Lint Removers",
+    "l1": "Beauty & Health",
+    "l2": "Lint Removers",
+    "product_count": 23,
+    "index_path": "indexes/Beauty & Health/Lint Removers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Makeup": {
+    "key": "Beauty & Health/Makeup",
+    "l1": "Beauty & Health",
+    "l2": "Makeup",
+    "product_count": 231,
+    "index_path": "indexes/Beauty & Health/Makeup",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Personal Care Devices": {
+    "key": "Beauty & Health/Personal Care Devices",
+    "l1": "Beauty & Health",
+    "l2": "Personal Care Devices",
+    "product_count": 34,
+    "index_path": "indexes/Beauty & Health/Personal Care Devices",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Reuseable Cleaning Cloths": {
+    "key": "Beauty & Health/Reuseable Cleaning Cloths",
+    "l1": "Beauty & Health",
+    "l2": "Reuseable Cleaning Cloths",
+    "product_count": 15,
+    "index_path": "indexes/Beauty & Health/Reuseable Cleaning Cloths",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Skincare": {
+    "key": "Beauty & Health/Skincare",
+    "l1": "Beauty & Health",
+    "l2": "Skincare",
+    "product_count": 457,
+    "index_path": "indexes/Beauty & Health/Skincare",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health/Vitamins & Supplements": {
+    "key": "Beauty & Health/Vitamins & Supplements",
+    "l1": "Beauty & Health",
+    "l2": "Vitamins & Supplements",
+    "product_count": 128,
+    "index_path": "indexes/Beauty & Health/Vitamins & Supplements",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Accessories": {
+    "key": "Clothing & Fashion/Accessories",
+    "l1": "Clothing & Fashion",
+    "l2": "Accessories",
+    "product_count": 446,
+    "index_path": "indexes/Clothing & Fashion/Accessories",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Bags & Luggage": {
+    "key": "Clothing & Fashion/Bags & Luggage",
+    "l1": "Clothing & Fashion",
+    "l2": "Bags & Luggage",
+    "product_count": 202,
+    "index_path": "indexes/Clothing & Fashion/Bags & Luggage",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Carry On Luggage": {
+    "key": "Clothing & Fashion/Carry On Luggage",
+    "l1": "Clothing & Fashion",
+    "l2": "Carry On Luggage",
+    "product_count": 64,
+    "index_path": "indexes/Clothing & Fashion/Carry On Luggage",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Casual Daypack Backpacks": {
+    "key": "Clothing & Fashion/Casual Daypack Backpacks",
+    "l1": "Clothing & Fashion",
+    "l2": "Casual Daypack Backpacks",
+    "product_count": 31,
+    "index_path": "indexes/Clothing & Fashion/Casual Daypack Backpacks",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Clothing General": {
+    "key": "Clothing & Fashion/Clothing General",
+    "l1": "Clothing & Fashion",
+    "l2": "Clothing General",
+    "product_count": 360,
+    "index_path": "indexes/Clothing & Fashion/Clothing General",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Dresses & Skirts": {
+    "key": "Clothing & Fashion/Dresses & Skirts",
+    "l1": "Clothing & Fashion",
+    "l2": "Dresses & Skirts",
+    "product_count": 108,
+    "index_path": "indexes/Clothing & Fashion/Dresses & Skirts",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Jackets & Coats": {
+    "key": "Clothing & Fashion/Jackets & Coats",
+    "l1": "Clothing & Fashion",
+    "l2": "Jackets & Coats",
+    "product_count": 713,
+    "index_path": "indexes/Clothing & Fashion/Jackets & Coats",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Jewelry & Accessories": {
+    "key": "Clothing & Fashion/Jewelry & Accessories",
+    "l1": "Clothing & Fashion",
+    "l2": "Jewelry & Accessories",
+    "product_count": 299,
+    "index_path": "indexes/Clothing & Fashion/Jewelry & Accessories",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Kids Clothing": {
+    "key": "Clothing & Fashion/Kids Clothing",
+    "l1": "Clothing & Fashion",
+    "l2": "Kids Clothing",
+    "product_count": 21,
+    "index_path": "indexes/Clothing & Fashion/Kids Clothing",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Kids' Backpacks": {
+    "key": "Clothing & Fashion/Kids' Backpacks",
+    "l1": "Clothing & Fashion",
+    "l2": "Kids' Backpacks",
+    "product_count": 65,
+    "index_path": "indexes/Clothing & Fashion/Kids' Backpacks",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Luggage Sets": {
+    "key": "Clothing & Fashion/Luggage Sets",
+    "l1": "Clothing & Fashion",
+    "l2": "Luggage Sets",
+    "product_count": 35,
+    "index_path": "indexes/Clothing & Fashion/Luggage Sets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Men's Wallets": {
+    "key": "Clothing & Fashion/Men's Wallets",
+    "l1": "Clothing & Fashion",
+    "l2": "Men's Wallets",
+    "product_count": 19,
+    "index_path": "indexes/Clothing & Fashion/Men's Wallets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Pants & Jeans": {
+    "key": "Clothing & Fashion/Pants & Jeans",
+    "l1": "Clothing & Fashion",
+    "l2": "Pants & Jeans",
+    "product_count": 154,
+    "index_path": "indexes/Clothing & Fashion/Pants & Jeans",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Shoes & Footwear": {
+    "key": "Clothing & Fashion/Shoes & Footwear",
+    "l1": "Clothing & Fashion",
+    "l2": "Shoes & Footwear",
+    "product_count": 775,
+    "index_path": "indexes/Clothing & Fashion/Shoes & Footwear",
+    "critical_slots": [],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "style",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "gender",
+      "style"
+    ],
+    "clarify_options": {
+      "gender": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "style": [
+        "running",
+        "casual",
+        "formal",
+        "boots",
+        "sandals",
+        "slippers"
+      ]
+    },
+    "ranking_features": [
+      "style_fit",
+      "gender_fit",
+      "color_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Sports Duffel Bags": {
+    "key": "Clothing & Fashion/Sports Duffel Bags",
+    "l1": "Clothing & Fashion",
+    "l2": "Sports Duffel Bags",
+    "product_count": 29,
+    "index_path": "indexes/Clothing & Fashion/Sports Duffel Bags",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Suitcases": {
+    "key": "Clothing & Fashion/Suitcases",
+    "l1": "Clothing & Fashion",
+    "l2": "Suitcases",
+    "product_count": 25,
+    "index_path": "indexes/Clothing & Fashion/Suitcases",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion/Tops & Shirts": {
+    "key": "Clothing & Fashion/Tops & Shirts",
+    "l1": "Clothing & Fashion",
+    "l2": "Tops & Shirts",
+    "product_count": 294,
+    "index_path": "indexes/Clothing & Fashion/Tops & Shirts",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/All in One Computers": {
+    "key": "Electronics/All in One Computers",
+    "l1": "Electronics",
+    "l2": "All in One Computers",
+    "product_count": 30,
+    "index_path": "indexes/Electronics/All in One Computers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Camcorders": {
+    "key": "Electronics/Camcorders",
+    "l1": "Electronics",
+    "l2": "Camcorders",
+    "product_count": 32,
+    "index_path": "indexes/Electronics/Camcorders",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Cell Phone Automobile Chargers": {
+    "key": "Electronics/Cell Phone Automobile Chargers",
+    "l1": "Electronics",
+    "l2": "Cell Phone Automobile Chargers",
+    "product_count": 22,
+    "index_path": "indexes/Electronics/Cell Phone Automobile Chargers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Cell Phone Automobile Cradles": {
+    "key": "Electronics/Cell Phone Automobile Cradles",
+    "l1": "Electronics",
+    "l2": "Cell Phone Automobile Cradles",
+    "product_count": 36,
+    "index_path": "indexes/Electronics/Cell Phone Automobile Cradles",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Cell Phone Basic Cases": {
+    "key": "Electronics/Cell Phone Basic Cases",
+    "l1": "Electronics",
+    "l2": "Cell Phone Basic Cases",
+    "product_count": 88,
+    "index_path": "indexes/Electronics/Cell Phone Basic Cases",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Cell Phone Portable Power Banks": {
+    "key": "Electronics/Cell Phone Portable Power Banks",
+    "l1": "Electronics",
+    "l2": "Cell Phone Portable Power Banks",
+    "product_count": 32,
+    "index_path": "indexes/Electronics/Cell Phone Portable Power Banks",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Cell Phone Screen Protectors": {
+    "key": "Electronics/Cell Phone Screen Protectors",
+    "l1": "Electronics",
+    "l2": "Cell Phone Screen Protectors",
+    "product_count": 33,
+    "index_path": "indexes/Electronics/Cell Phone Screen Protectors",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Cell Phone Tripods": {
+    "key": "Electronics/Cell Phone Tripods",
+    "l1": "Electronics",
+    "l2": "Cell Phone Tripods",
+    "product_count": 15,
+    "index_path": "indexes/Electronics/Cell Phone Tripods",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Cell Phone Wall Chargers": {
+    "key": "Electronics/Cell Phone Wall Chargers",
+    "l1": "Electronics",
+    "l2": "Cell Phone Wall Chargers",
+    "product_count": 20,
+    "index_path": "indexes/Electronics/Cell Phone Wall Chargers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Computer Monitors": {
+    "key": "Electronics/Computer Monitors",
+    "l1": "Electronics",
+    "l2": "Computer Monitors",
+    "product_count": 238,
+    "index_path": "indexes/Electronics/Computer Monitors",
+    "critical_slots": [
+      "screen_size"
+    ],
+    "optional_slots": [
+      "resolution",
+      "brand",
+      "price_max",
+      "refresh_rate",
+      "panel_type"
+    ],
+    "clarify_priority": [
+      "screen_size",
+      "resolution"
+    ],
+    "clarify_options": {
+      "screen_size": [
+        "24 inch",
+        "27 inch",
+        "32 inch",
+        "34 inch ultrawide"
+      ],
+      "resolution": [
+        "1080p Full HD",
+        "1440p QHD",
+        "4K UHD"
+      ]
+    },
+    "ranking_features": [
+      "screen_size_fit",
+      "resolution_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Computer Routers": {
+    "key": "Electronics/Computer Routers",
+    "l1": "Electronics",
+    "l2": "Computer Routers",
+    "product_count": 53,
+    "index_path": "indexes/Electronics/Computer Routers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Computer Tablets": {
+    "key": "Electronics/Computer Tablets",
+    "l1": "Electronics",
+    "l2": "Computer Tablets",
+    "product_count": 43,
+    "index_path": "indexes/Electronics/Computer Tablets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Computers & Tablets": {
+    "key": "Electronics/Computers & Tablets",
+    "l1": "Electronics",
+    "l2": "Computers & Tablets",
+    "product_count": 24,
+    "index_path": "indexes/Electronics/Computers & Tablets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Digital Voice Recorders": {
+    "key": "Electronics/Digital Voice Recorders",
+    "l1": "Electronics",
+    "l2": "Digital Voice Recorders",
+    "product_count": 18,
+    "index_path": "indexes/Electronics/Digital Voice Recorders",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Earbud & In Ear Headphones": {
+    "key": "Electronics/Earbud & In Ear Headphones",
+    "l1": "Electronics",
+    "l2": "Earbud & In Ear Headphones",
+    "product_count": 172,
+    "index_path": "indexes/Electronics/Earbud & In Ear Headphones",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Home Digital Pianos": {
+    "key": "Electronics/Home Digital Pianos",
+    "l1": "Electronics",
+    "l2": "Home Digital Pianos",
+    "product_count": 34,
+    "index_path": "indexes/Electronics/Home Digital Pianos",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/LED & LCD TVs": {
+    "key": "Electronics/LED & LCD TVs",
+    "l1": "Electronics",
+    "l2": "LED & LCD TVs",
+    "product_count": 54,
+    "index_path": "indexes/Electronics/LED & LCD TVs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Laptop Docking Stations": {
+    "key": "Electronics/Laptop Docking Stations",
+    "l1": "Electronics",
+    "l2": "Laptop Docking Stations",
+    "product_count": 27,
+    "index_path": "indexes/Electronics/Laptop Docking Stations",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Mac Gaming Keyboards": {
+    "key": "Electronics/Mac Gaming Keyboards",
+    "l1": "Electronics",
+    "l2": "Mac Gaming Keyboards",
+    "product_count": 17,
+    "index_path": "indexes/Electronics/Mac Gaming Keyboards",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Mac Gaming Mice": {
+    "key": "Electronics/Mac Gaming Mice",
+    "l1": "Electronics",
+    "l2": "Mac Gaming Mice",
+    "product_count": 33,
+    "index_path": "indexes/Electronics/Mac Gaming Mice",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Mini Computers": {
+    "key": "Electronics/Mini Computers",
+    "l1": "Electronics",
+    "l2": "Mini Computers",
+    "product_count": 23,
+    "index_path": "indexes/Electronics/Mini Computers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Mirrorless Cameras": {
+    "key": "Electronics/Mirrorless Cameras",
+    "l1": "Electronics",
+    "l2": "Mirrorless Cameras",
+    "product_count": 15,
+    "index_path": "indexes/Electronics/Mirrorless Cameras",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Nintendo Switch Games": {
+    "key": "Electronics/Nintendo Switch Games",
+    "l1": "Electronics",
+    "l2": "Nintendo Switch Games",
+    "product_count": 17,
+    "index_path": "indexes/Electronics/Nintendo Switch Games",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/On Ear Headphones": {
+    "key": "Electronics/On Ear Headphones",
+    "l1": "Electronics",
+    "l2": "On Ear Headphones",
+    "product_count": 38,
+    "index_path": "indexes/Electronics/On Ear Headphones",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Over Ear Headphones": {
+    "key": "Electronics/Over Ear Headphones",
+    "l1": "Electronics",
+    "l2": "Over Ear Headphones",
+    "product_count": 106,
+    "index_path": "indexes/Electronics/Over Ear Headphones",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/PC Game Headsets": {
+    "key": "Electronics/PC Game Headsets",
+    "l1": "Electronics",
+    "l2": "PC Game Headsets",
+    "product_count": 34,
+    "index_path": "indexes/Electronics/PC Game Headsets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/PC Gaming Keyboards": {
+    "key": "Electronics/PC Gaming Keyboards",
+    "l1": "Electronics",
+    "l2": "PC Gaming Keyboards",
+    "product_count": 124,
+    "index_path": "indexes/Electronics/PC Gaming Keyboards",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/PC Gaming Mice": {
+    "key": "Electronics/PC Gaming Mice",
+    "l1": "Electronics",
+    "l2": "PC Gaming Mice",
+    "product_count": 56,
+    "index_path": "indexes/Electronics/PC Gaming Mice",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Portable & Arranger Keyboards": {
+    "key": "Electronics/Portable & Arranger Keyboards",
+    "l1": "Electronics",
+    "l2": "Portable & Arranger Keyboards",
+    "product_count": 31,
+    "index_path": "indexes/Electronics/Portable & Arranger Keyboards",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Portable Bluetooth Speakers": {
+    "key": "Electronics/Portable Bluetooth Speakers",
+    "l1": "Electronics",
+    "l2": "Portable Bluetooth Speakers",
+    "product_count": 18,
+    "index_path": "indexes/Electronics/Portable Bluetooth Speakers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Power Strips": {
+    "key": "Electronics/Power Strips",
+    "l1": "Electronics",
+    "l2": "Power Strips",
+    "product_count": 19,
+    "index_path": "indexes/Electronics/Power Strips",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/QLED TVs": {
+    "key": "Electronics/QLED TVs",
+    "l1": "Electronics",
+    "l2": "QLED TVs",
+    "product_count": 39,
+    "index_path": "indexes/Electronics/QLED TVs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Renewed Laptops": {
+    "key": "Electronics/Renewed Laptops",
+    "l1": "Electronics",
+    "l2": "Renewed Laptops",
+    "product_count": 57,
+    "index_path": "indexes/Electronics/Renewed Laptops",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Single Ear Bluetooth Cell Phone Headsets": {
+    "key": "Electronics/Single Ear Bluetooth Cell Phone Headsets",
+    "l1": "Electronics",
+    "l2": "Single Ear Bluetooth Cell Phone Headsets",
+    "product_count": 17,
+    "index_path": "indexes/Electronics/Single Ear Bluetooth Cell Phone Headsets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Smartwatches": {
+    "key": "Electronics/Smartwatches",
+    "l1": "Electronics",
+    "l2": "Smartwatches",
+    "product_count": 116,
+    "index_path": "indexes/Electronics/Smartwatches",
+    "critical_slots": [
+      "compatibility"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "features",
+      "color"
+    ],
+    "clarify_priority": [
+      "compatibility"
+    ],
+    "clarify_options": {
+      "compatibility": [
+        "iPhone / iOS",
+        "Android",
+        "any / both"
+      ]
+    },
+    "ranking_features": [
+      "compat_fit",
+      "feature_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Tower Computers": {
+    "key": "Electronics/Tower Computers",
+    "l1": "Electronics",
+    "l2": "Tower Computers",
+    "product_count": 110,
+    "index_path": "indexes/Electronics/Tower Computers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Traditional Laptop Computers": {
+    "key": "Electronics/Traditional Laptop Computers",
+    "l1": "Electronics",
+    "l2": "Traditional Laptop Computers",
+    "product_count": 317,
+    "index_path": "indexes/Electronics/Traditional Laptop Computers",
+    "critical_slots": [
+      "use_case"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "ram",
+      "storage",
+      "screen_size"
+    ],
+    "clarify_priority": [
+      "use_case",
+      "price_max"
+    ],
+    "clarify_options": {
+      "use_case": [
+        "work / productivity",
+        "gaming",
+        "student",
+        "creative / design"
+      ]
+    },
+    "ranking_features": [
+      "use_case_fit",
+      "spec_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics/Wireless Headset Microphones & Systems": {
+    "key": "Electronics/Wireless Headset Microphones & Systems",
+    "l1": "Electronics",
+    "l2": "Wireless Headset Microphones & Systems",
+    "product_count": 16,
+    "index_path": "indexes/Electronics/Wireless Headset Microphones & Systems",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food/Candy & Sweets": {
+    "key": "Grocery & Food/Candy & Sweets",
+    "l1": "Grocery & Food",
+    "l2": "Candy & Sweets",
+    "product_count": 141,
+    "index_path": "indexes/Grocery & Food/Candy & Sweets",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food/Coffee": {
+    "key": "Grocery & Food/Coffee",
+    "l1": "Grocery & Food",
+    "l2": "Coffee",
+    "product_count": 229,
+    "index_path": "indexes/Grocery & Food/Coffee",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food/Condiments & Spices": {
+    "key": "Grocery & Food/Condiments & Spices",
+    "l1": "Grocery & Food",
+    "l2": "Condiments & Spices",
+    "product_count": 65,
+    "index_path": "indexes/Grocery & Food/Condiments & Spices",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food/Drinks & Beverages": {
+    "key": "Grocery & Food/Drinks & Beverages",
+    "l1": "Grocery & Food",
+    "l2": "Drinks & Beverages",
+    "product_count": 88,
+    "index_path": "indexes/Grocery & Food/Drinks & Beverages",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food/Flowers & Plants": {
+    "key": "Grocery & Food/Flowers & Plants",
+    "l1": "Grocery & Food",
+    "l2": "Flowers & Plants",
+    "product_count": 24,
+    "index_path": "indexes/Grocery & Food/Flowers & Plants",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food/Grocery General": {
+    "key": "Grocery & Food/Grocery General",
+    "l1": "Grocery & Food",
+    "l2": "Grocery General",
+    "product_count": 454,
+    "index_path": "indexes/Grocery & Food/Grocery General",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food/Snacks": {
+    "key": "Grocery & Food/Snacks",
+    "l1": "Grocery & Food",
+    "l2": "Snacks",
+    "product_count": 259,
+    "index_path": "indexes/Grocery & Food/Snacks",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food/Tea": {
+    "key": "Grocery & Food/Tea",
+    "l1": "Grocery & Food",
+    "l2": "Tea",
+    "product_count": 130,
+    "index_path": "indexes/Grocery & Food/Tea",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Air Fryers": {
+    "key": "Home & Living/Air Fryers",
+    "l1": "Home & Living",
+    "l2": "Air Fryers",
+    "product_count": 38,
+    "index_path": "indexes/Home & Living/Air Fryers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Alarm Clocks": {
+    "key": "Home & Living/Alarm Clocks",
+    "l1": "Home & Living",
+    "l2": "Alarm Clocks",
+    "product_count": 48,
+    "index_path": "indexes/Home & Living/Alarm Clocks",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Area Rugs": {
+    "key": "Home & Living/Area Rugs",
+    "l1": "Home & Living",
+    "l2": "Area Rugs",
+    "product_count": 47,
+    "index_path": "indexes/Home & Living/Area Rugs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Artificial Flowers": {
+    "key": "Home & Living/Artificial Flowers",
+    "l1": "Home & Living",
+    "l2": "Artificial Flowers",
+    "product_count": 45,
+    "index_path": "indexes/Home & Living/Artificial Flowers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Baking Mats": {
+    "key": "Home & Living/Baking Mats",
+    "l1": "Home & Living",
+    "l2": "Baking Mats",
+    "product_count": 17,
+    "index_path": "indexes/Home & Living/Baking Mats",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Bed Frames": {
+    "key": "Home & Living/Bed Frames",
+    "l1": "Home & Living",
+    "l2": "Bed Frames",
+    "product_count": 52,
+    "index_path": "indexes/Home & Living/Bed Frames",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Bed Pillows": {
+    "key": "Home & Living/Bed Pillows",
+    "l1": "Home & Living",
+    "l2": "Bed Pillows",
+    "product_count": 54,
+    "index_path": "indexes/Home & Living/Bed Pillows",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Bedding Duvet Cover Sets": {
+    "key": "Home & Living/Bedding Duvet Cover Sets",
+    "l1": "Home & Living",
+    "l2": "Bedding Duvet Cover Sets",
+    "product_count": 17,
+    "index_path": "indexes/Home & Living/Bedding Duvet Cover Sets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Bedding Duvets & Down Comforters": {
+    "key": "Home & Living/Bedding Duvets & Down Comforters",
+    "l1": "Home & Living",
+    "l2": "Bedding Duvets & Down Comforters",
+    "product_count": 15,
+    "index_path": "indexes/Home & Living/Bedding Duvets & Down Comforters",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Beer Glasses": {
+    "key": "Home & Living/Beer Glasses",
+    "l1": "Home & Living",
+    "l2": "Beer Glasses",
+    "product_count": 17,
+    "index_path": "indexes/Home & Living/Beer Glasses",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Box Springs": {
+    "key": "Home & Living/Box Springs",
+    "l1": "Home & Living",
+    "l2": "Box Springs",
+    "product_count": 18,
+    "index_path": "indexes/Home & Living/Box Springs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Coffee Machines": {
+    "key": "Home & Living/Coffee Machines",
+    "l1": "Home & Living",
+    "l2": "Coffee Machines",
+    "product_count": 37,
+    "index_path": "indexes/Home & Living/Coffee Machines",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Coffee Tables": {
+    "key": "Home & Living/Coffee Tables",
+    "l1": "Home & Living",
+    "l2": "Coffee Tables",
+    "product_count": 36,
+    "index_path": "indexes/Home & Living/Coffee Tables",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Collectible Figurines": {
+    "key": "Home & Living/Collectible Figurines",
+    "l1": "Home & Living",
+    "l2": "Collectible Figurines",
+    "product_count": 20,
+    "index_path": "indexes/Home & Living/Collectible Figurines",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Compact Refrigerators": {
+    "key": "Home & Living/Compact Refrigerators",
+    "l1": "Home & Living",
+    "l2": "Compact Refrigerators",
+    "product_count": 28,
+    "index_path": "indexes/Home & Living/Compact Refrigerators",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Countertop Burners": {
+    "key": "Home & Living/Countertop Burners",
+    "l1": "Home & Living",
+    "l2": "Countertop Burners",
+    "product_count": 22,
+    "index_path": "indexes/Home & Living/Countertop Burners",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Cutting Boards Kitchen & Dining": {
+    "key": "Home & Living/Cutting Boards Kitchen & Dining",
+    "l1": "Home & Living",
+    "l2": "Cutting Boards Kitchen & Dining",
+    "product_count": 15,
+    "index_path": "indexes/Home & Living/Cutting Boards Kitchen & Dining",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Deadbolts": {
+    "key": "Home & Living/Deadbolts",
+    "l1": "Home & Living",
+    "l2": "Deadbolts",
+    "product_count": 35,
+    "index_path": "indexes/Home & Living/Deadbolts",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Desk Lamps": {
+    "key": "Home & Living/Desk Lamps",
+    "l1": "Home & Living",
+    "l2": "Desk Lamps",
+    "product_count": 99,
+    "index_path": "indexes/Home & Living/Desk Lamps",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Dish Racks": {
+    "key": "Home & Living/Dish Racks",
+    "l1": "Home & Living",
+    "l2": "Dish Racks",
+    "product_count": 18,
+    "index_path": "indexes/Home & Living/Dish Racks",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Electric Kettles": {
+    "key": "Home & Living/Electric Kettles",
+    "l1": "Home & Living",
+    "l2": "Electric Kettles",
+    "product_count": 49,
+    "index_path": "indexes/Home & Living/Electric Kettles",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Floor & Full Length Mirrors": {
+    "key": "Home & Living/Floor & Full Length Mirrors",
+    "l1": "Home & Living",
+    "l2": "Floor & Full Length Mirrors",
+    "product_count": 55,
+    "index_path": "indexes/Home & Living/Floor & Full Length Mirrors",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Garment Racks": {
+    "key": "Home & Living/Garment Racks",
+    "l1": "Home & Living",
+    "l2": "Garment Racks",
+    "product_count": 26,
+    "index_path": "indexes/Home & Living/Garment Racks",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Handheld Vacuums": {
+    "key": "Home & Living/Handheld Vacuums",
+    "l1": "Home & Living",
+    "l2": "Handheld Vacuums",
+    "product_count": 33,
+    "index_path": "indexes/Home & Living/Handheld Vacuums",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Highball Glasses": {
+    "key": "Home & Living/Highball Glasses",
+    "l1": "Home & Living",
+    "l2": "Highball Glasses",
+    "product_count": 60,
+    "index_path": "indexes/Home & Living/Highball Glasses",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Home Office Desk Chairs": {
+    "key": "Home & Living/Home Office Desk Chairs",
+    "l1": "Home & Living",
+    "l2": "Home Office Desk Chairs",
+    "product_count": 131,
+    "index_path": "indexes/Home & Living/Home Office Desk Chairs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Home Office Desks": {
+    "key": "Home & Living/Home Office Desks",
+    "l1": "Home & Living",
+    "l2": "Home Office Desks",
+    "product_count": 74,
+    "index_path": "indexes/Home & Living/Home Office Desks",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Humidifiers": {
+    "key": "Home & Living/Humidifiers",
+    "l1": "Home & Living",
+    "l2": "Humidifiers",
+    "product_count": 30,
+    "index_path": "indexes/Home & Living/Humidifiers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Insulated Bottles": {
+    "key": "Home & Living/Insulated Bottles",
+    "l1": "Home & Living",
+    "l2": "Insulated Bottles",
+    "product_count": 107,
+    "index_path": "indexes/Home & Living/Insulated Bottles",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Insulated Cups & Mugs": {
+    "key": "Home & Living/Insulated Cups & Mugs",
+    "l1": "Home & Living",
+    "l2": "Insulated Cups & Mugs",
+    "product_count": 47,
+    "index_path": "indexes/Home & Living/Insulated Cups & Mugs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Insulated Tumblers": {
+    "key": "Home & Living/Insulated Tumblers",
+    "l1": "Home & Living",
+    "l2": "Insulated Tumblers",
+    "product_count": 41,
+    "index_path": "indexes/Home & Living/Insulated Tumblers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Jar Candles": {
+    "key": "Home & Living/Jar Candles",
+    "l1": "Home & Living",
+    "l2": "Jar Candles",
+    "product_count": 28,
+    "index_path": "indexes/Home & Living/Jar Candles",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Kitchen & Dining Room Chairs": {
+    "key": "Home & Living/Kitchen & Dining Room Chairs",
+    "l1": "Home & Living",
+    "l2": "Kitchen & Dining Room Chairs",
+    "product_count": 19,
+    "index_path": "indexes/Home & Living/Kitchen & Dining Room Chairs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Kitchen Cookware Sets": {
+    "key": "Home & Living/Kitchen Cookware Sets",
+    "l1": "Home & Living",
+    "l2": "Kitchen Cookware Sets",
+    "product_count": 24,
+    "index_path": "indexes/Home & Living/Kitchen Cookware Sets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Living Room Chairs": {
+    "key": "Home & Living/Living Room Chairs",
+    "l1": "Home & Living",
+    "l2": "Living Room Chairs",
+    "product_count": 49,
+    "index_path": "indexes/Home & Living/Living Room Chairs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Mattresses": {
+    "key": "Home & Living/Mattresses",
+    "l1": "Home & Living",
+    "l2": "Mattresses",
+    "product_count": 21,
+    "index_path": "indexes/Home & Living/Mattresses",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Mixed Drinkware Sets": {
+    "key": "Home & Living/Mixed Drinkware Sets",
+    "l1": "Home & Living",
+    "l2": "Mixed Drinkware Sets",
+    "product_count": 34,
+    "index_path": "indexes/Home & Living/Mixed Drinkware Sets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Mugs": {
+    "key": "Home & Living/Mugs",
+    "l1": "Home & Living",
+    "l2": "Mugs",
+    "product_count": 17,
+    "index_path": "indexes/Home & Living/Mugs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Novelty Coffee Mugs": {
+    "key": "Home & Living/Novelty Coffee Mugs",
+    "l1": "Home & Living",
+    "l2": "Novelty Coffee Mugs",
+    "product_count": 58,
+    "index_path": "indexes/Home & Living/Novelty Coffee Mugs",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Old Fashioned Glasses": {
+    "key": "Home & Living/Old Fashioned Glasses",
+    "l1": "Home & Living",
+    "l2": "Old Fashioned Glasses",
+    "product_count": 21,
+    "index_path": "indexes/Home & Living/Old Fashioned Glasses",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Portable Air Conditioners": {
+    "key": "Home & Living/Portable Air Conditioners",
+    "l1": "Home & Living",
+    "l2": "Portable Air Conditioners",
+    "product_count": 22,
+    "index_path": "indexes/Home & Living/Portable Air Conditioners",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Portable Clothes Washing Machines": {
+    "key": "Home & Living/Portable Clothes Washing Machines",
+    "l1": "Home & Living",
+    "l2": "Portable Clothes Washing Machines",
+    "product_count": 64,
+    "index_path": "indexes/Home & Living/Portable Clothes Washing Machines",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Posters & Prints": {
+    "key": "Home & Living/Posters & Prints",
+    "l1": "Home & Living",
+    "l2": "Posters & Prints",
+    "product_count": 41,
+    "index_path": "indexes/Home & Living/Posters & Prints",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Preserved Flowers": {
+    "key": "Home & Living/Preserved Flowers",
+    "l1": "Home & Living",
+    "l2": "Preserved Flowers",
+    "product_count": 31,
+    "index_path": "indexes/Home & Living/Preserved Flowers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Quilt Sets": {
+    "key": "Home & Living/Quilt Sets",
+    "l1": "Home & Living",
+    "l2": "Quilt Sets",
+    "product_count": 22,
+    "index_path": "indexes/Home & Living/Quilt Sets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Refrigerators": {
+    "key": "Home & Living/Refrigerators",
+    "l1": "Home & Living",
+    "l2": "Refrigerators",
+    "product_count": 37,
+    "index_path": "indexes/Home & Living/Refrigerators",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Rice Cookers": {
+    "key": "Home & Living/Rice Cookers",
+    "l1": "Home & Living",
+    "l2": "Rice Cookers",
+    "product_count": 47,
+    "index_path": "indexes/Home & Living/Rice Cookers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Robotic Vacuums": {
+    "key": "Home & Living/Robotic Vacuums",
+    "l1": "Home & Living",
+    "l2": "Robotic Vacuums",
+    "product_count": 26,
+    "index_path": "indexes/Home & Living/Robotic Vacuums",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Ropes": {
+    "key": "Home & Living/Ropes",
+    "l1": "Home & Living",
+    "l2": "Ropes",
+    "product_count": 19,
+    "index_path": "indexes/Home & Living/Ropes",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Snow Globes": {
+    "key": "Home & Living/Snow Globes",
+    "l1": "Home & Living",
+    "l2": "Snow Globes",
+    "product_count": 29,
+    "index_path": "indexes/Home & Living/Snow Globes",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Socket Sets": {
+    "key": "Home & Living/Socket Sets",
+    "l1": "Home & Living",
+    "l2": "Socket Sets",
+    "product_count": 20,
+    "index_path": "indexes/Home & Living/Socket Sets",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Sofas & Couches": {
+    "key": "Home & Living/Sofas & Couches",
+    "l1": "Home & Living",
+    "l2": "Sofas & Couches",
+    "product_count": 39,
+    "index_path": "indexes/Home & Living/Sofas & Couches",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Table Lamps": {
+    "key": "Home & Living/Table Lamps",
+    "l1": "Home & Living",
+    "l2": "Table Lamps",
+    "product_count": 42,
+    "index_path": "indexes/Home & Living/Table Lamps",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Tea & Espresso Beverage Warmers": {
+    "key": "Home & Living/Tea & Espresso Beverage Warmers",
+    "l1": "Home & Living",
+    "l2": "Tea & Espresso Beverage Warmers",
+    "product_count": 22,
+    "index_path": "indexes/Home & Living/Tea & Espresso Beverage Warmers",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Teapots": {
+    "key": "Home & Living/Teapots",
+    "l1": "Home & Living",
+    "l2": "Teapots",
+    "product_count": 28,
+    "index_path": "indexes/Home & Living/Teapots",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Tumblers & Water Glasses": {
+    "key": "Home & Living/Tumblers & Water Glasses",
+    "l1": "Home & Living",
+    "l2": "Tumblers & Water Glasses",
+    "product_count": 165,
+    "index_path": "indexes/Home & Living/Tumblers & Water Glasses",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Vases": {
+    "key": "Home & Living/Vases",
+    "l1": "Home & Living",
+    "l2": "Vases",
+    "product_count": 43,
+    "index_path": "indexes/Home & Living/Vases",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Wall Clocks": {
+    "key": "Home & Living/Wall Clocks",
+    "l1": "Home & Living",
+    "l2": "Wall Clocks",
+    "product_count": 21,
+    "index_path": "indexes/Home & Living/Wall Clocks",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Wall Mounted Mirrors": {
+    "key": "Home & Living/Wall Mounted Mirrors",
+    "l1": "Home & Living",
+    "l2": "Wall Mounted Mirrors",
+    "product_count": 67,
+    "index_path": "indexes/Home & Living/Wall Mounted Mirrors",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Wall Mounted Vanity Mirrors": {
+    "key": "Home & Living/Wall Mounted Vanity Mirrors",
+    "l1": "Home & Living",
+    "l2": "Wall Mounted Vanity Mirrors",
+    "product_count": 19,
+    "index_path": "indexes/Home & Living/Wall Mounted Vanity Mirrors",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Window Air Conditioners": {
+    "key": "Home & Living/Window Air Conditioners",
+    "l1": "Home & Living",
+    "l2": "Window Air Conditioners",
+    "product_count": 22,
+    "index_path": "indexes/Home & Living/Window Air Conditioners",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Window Curtain Panels": {
+    "key": "Home & Living/Window Curtain Panels",
+    "l1": "Home & Living",
+    "l2": "Window Curtain Panels",
+    "product_count": 71,
+    "index_path": "indexes/Home & Living/Window Curtain Panels",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living/Wine Glasses": {
+    "key": "Home & Living/Wine Glasses",
+    "l1": "Home & Living",
+    "l2": "Wine Glasses",
+    "product_count": 44,
+    "index_path": "indexes/Home & Living/Wine Glasses",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Ballpoint Pens": {
+    "key": "Office & Stationery/Ballpoint Pens",
+    "l1": "Office & Stationery",
+    "l2": "Ballpoint Pens",
+    "product_count": 58,
+    "index_path": "indexes/Office & Stationery/Ballpoint Pens",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Composition Notebooks": {
+    "key": "Office & Stationery/Composition Notebooks",
+    "l1": "Office & Stationery",
+    "l2": "Composition Notebooks",
+    "product_count": 16,
+    "index_path": "indexes/Office & Stationery/Composition Notebooks",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Computer Workstations": {
+    "key": "Office & Stationery/Computer Workstations",
+    "l1": "Office & Stationery",
+    "l2": "Computer Workstations",
+    "product_count": 16,
+    "index_path": "indexes/Office & Stationery/Computer Workstations",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Copy & Multipurpose Paper": {
+    "key": "Office & Stationery/Copy & Multipurpose Paper",
+    "l1": "Office & Stationery",
+    "l2": "Copy & Multipurpose Paper",
+    "product_count": 26,
+    "index_path": "indexes/Office & Stationery/Copy & Multipurpose Paper",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Fountain Pens": {
+    "key": "Office & Stationery/Fountain Pens",
+    "l1": "Office & Stationery",
+    "l2": "Fountain Pens",
+    "product_count": 40,
+    "index_path": "indexes/Office & Stationery/Fountain Pens",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Gel Ink Pens": {
+    "key": "Office & Stationery/Gel Ink Pens",
+    "l1": "Office & Stationery",
+    "l2": "Gel Ink Pens",
+    "product_count": 52,
+    "index_path": "indexes/Office & Stationery/Gel Ink Pens",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Greeting Cards": {
+    "key": "Office & Stationery/Greeting Cards",
+    "l1": "Office & Stationery",
+    "l2": "Greeting Cards",
+    "product_count": 16,
+    "index_path": "indexes/Office & Stationery/Greeting Cards",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Landline Phones": {
+    "key": "Office & Stationery/Landline Phones",
+    "l1": "Office & Stationery",
+    "l2": "Landline Phones",
+    "product_count": 22,
+    "index_path": "indexes/Office & Stationery/Landline Phones",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Managerial Chairs & Executive Chairs": {
+    "key": "Office & Stationery/Managerial Chairs & Executive Chairs",
+    "l1": "Office & Stationery",
+    "l2": "Managerial Chairs & Executive Chairs",
+    "product_count": 19,
+    "index_path": "indexes/Office & Stationery/Managerial Chairs & Executive Chairs",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Mouse Pads": {
+    "key": "Office & Stationery/Mouse Pads",
+    "l1": "Office & Stationery",
+    "l2": "Mouse Pads",
+    "product_count": 55,
+    "index_path": "indexes/Office & Stationery/Mouse Pads",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Spiral Notebooks": {
+    "key": "Office & Stationery/Spiral Notebooks",
+    "l1": "Office & Stationery",
+    "l2": "Spiral Notebooks",
+    "product_count": 18,
+    "index_path": "indexes/Office & Stationery/Spiral Notebooks",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery/Subject Notebooks": {
+    "key": "Office & Stationery/Subject Notebooks",
+    "l1": "Office & Stationery",
+    "l2": "Subject Notebooks",
+    "product_count": 32,
+    "index_path": "indexes/Office & Stationery/Subject Notebooks",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies/Bird Supplies": {
+    "key": "Pet Supplies/Bird Supplies",
+    "l1": "Pet Supplies",
+    "l2": "Bird Supplies",
+    "product_count": 22,
+    "index_path": "indexes/Pet Supplies/Bird Supplies",
+    "critical_slots": [
+      "pet_type"
+    ],
+    "optional_slots": [
+      "product_type",
+      "breed_size",
+      "brand",
+      "price_max",
+      "diet"
+    ],
+    "clarify_priority": [
+      "pet_type"
+    ],
+    "clarify_options": {
+      "pet_type": [
+        "dog",
+        "cat",
+        "bird",
+        "fish",
+        "small animal"
+      ],
+      "product_type": [
+        "food",
+        "treats",
+        "toys",
+        "accessories",
+        "health"
+      ]
+    },
+    "ranking_features": [
+      "pet_type_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies/Canned Dog Food": {
+    "key": "Pet Supplies/Canned Dog Food",
+    "l1": "Pet Supplies",
+    "l2": "Canned Dog Food",
+    "product_count": 22,
+    "index_path": "indexes/Pet Supplies/Canned Dog Food",
+    "critical_slots": [
+      "pet_type"
+    ],
+    "optional_slots": [
+      "product_type",
+      "breed_size",
+      "brand",
+      "price_max",
+      "diet"
+    ],
+    "clarify_priority": [
+      "pet_type"
+    ],
+    "clarify_options": {
+      "pet_type": [
+        "dog",
+        "cat",
+        "bird",
+        "fish",
+        "small animal"
+      ],
+      "product_type": [
+        "food",
+        "treats",
+        "toys",
+        "accessories",
+        "health"
+      ]
+    },
+    "ranking_features": [
+      "pet_type_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies/Cat Food": {
+    "key": "Pet Supplies/Cat Food",
+    "l1": "Pet Supplies",
+    "l2": "Cat Food",
+    "product_count": 87,
+    "index_path": "indexes/Pet Supplies/Cat Food",
+    "critical_slots": [],
+    "optional_slots": [
+      "brand",
+      "diet_type",
+      "price_max",
+      "life_stage",
+      "wet_or_dry"
+    ],
+    "clarify_priority": [
+      "wet_or_dry"
+    ],
+    "clarify_options": {
+      "wet_or_dry": [
+        "dry / kibble",
+        "wet / canned",
+        "either"
+      ]
+    },
+    "ranking_features": [
+      "diet_fit",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies/Dog Food": {
+    "key": "Pet Supplies/Dog Food",
+    "l1": "Pet Supplies",
+    "l2": "Dog Food",
+    "product_count": 41,
+    "index_path": "indexes/Pet Supplies/Dog Food",
+    "critical_slots": [
+      "dog_size"
+    ],
+    "optional_slots": [
+      "brand",
+      "diet_type",
+      "price_max",
+      "life_stage"
+    ],
+    "clarify_priority": [
+      "dog_size"
+    ],
+    "clarify_options": {
+      "dog_size": [
+        "small (under 25 lbs)",
+        "medium (25-60 lbs)",
+        "large (60+ lbs)"
+      ],
+      "diet_type": [
+        "regular",
+        "grain-free",
+        "raw",
+        "sensitive stomach"
+      ],
+      "life_stage": [
+        "puppy",
+        "adult",
+        "senior"
+      ]
+    },
+    "ranking_features": [
+      "size_fit",
+      "diet_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies/Dog Toys": {
+    "key": "Pet Supplies/Dog Toys",
+    "l1": "Pet Supplies",
+    "l2": "Dog Toys",
+    "product_count": 25,
+    "index_path": "indexes/Pet Supplies/Dog Toys",
+    "critical_slots": [
+      "pet_type"
+    ],
+    "optional_slots": [
+      "product_type",
+      "breed_size",
+      "brand",
+      "price_max",
+      "diet"
+    ],
+    "clarify_priority": [
+      "pet_type"
+    ],
+    "clarify_options": {
+      "pet_type": [
+        "dog",
+        "cat",
+        "bird",
+        "fish",
+        "small animal"
+      ],
+      "product_type": [
+        "food",
+        "treats",
+        "toys",
+        "accessories",
+        "health"
+      ]
+    },
+    "ranking_features": [
+      "pet_type_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies/Dog Treats": {
+    "key": "Pet Supplies/Dog Treats",
+    "l1": "Pet Supplies",
+    "l2": "Dog Treats",
+    "product_count": 26,
+    "index_path": "indexes/Pet Supplies/Dog Treats",
+    "critical_slots": [
+      "pet_type"
+    ],
+    "optional_slots": [
+      "product_type",
+      "breed_size",
+      "brand",
+      "price_max",
+      "diet"
+    ],
+    "clarify_priority": [
+      "pet_type"
+    ],
+    "clarify_options": {
+      "pet_type": [
+        "dog",
+        "cat",
+        "bird",
+        "fish",
+        "small animal"
+      ],
+      "product_type": [
+        "food",
+        "treats",
+        "toys",
+        "accessories",
+        "health"
+      ]
+    },
+    "ranking_features": [
+      "pet_type_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies/Dry Dog Food": {
+    "key": "Pet Supplies/Dry Dog Food",
+    "l1": "Pet Supplies",
+    "l2": "Dry Dog Food",
+    "product_count": 15,
+    "index_path": "indexes/Pet Supplies/Dry Dog Food",
+    "critical_slots": [
+      "pet_type"
+    ],
+    "optional_slots": [
+      "product_type",
+      "breed_size",
+      "brand",
+      "price_max",
+      "diet"
+    ],
+    "clarify_priority": [
+      "pet_type"
+    ],
+    "clarify_options": {
+      "pet_type": [
+        "dog",
+        "cat",
+        "bird",
+        "fish",
+        "small animal"
+      ],
+      "product_type": [
+        "food",
+        "treats",
+        "toys",
+        "accessories",
+        "health"
+      ]
+    },
+    "ranking_features": [
+      "pet_type_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies/Pet General": {
+    "key": "Pet Supplies/Pet General",
+    "l1": "Pet Supplies",
+    "l2": "Pet General",
+    "product_count": 63,
+    "index_path": "indexes/Pet Supplies/Pet General",
+    "critical_slots": [
+      "pet_type"
+    ],
+    "optional_slots": [
+      "product_type",
+      "breed_size",
+      "brand",
+      "price_max",
+      "diet"
+    ],
+    "clarify_priority": [
+      "pet_type"
+    ],
+    "clarify_options": {
+      "pet_type": [
+        "dog",
+        "cat",
+        "bird",
+        "fish",
+        "small animal"
+      ],
+      "product_type": [
+        "food",
+        "treats",
+        "toys",
+        "accessories",
+        "health"
+      ]
+    },
+    "ranking_features": [
+      "pet_type_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Activity & Fitness Trackers": {
+    "key": "Sports & Outdoors/Activity & Fitness Trackers",
+    "l1": "Sports & Outdoors",
+    "l2": "Activity & Fitness Trackers",
+    "product_count": 31,
+    "index_path": "indexes/Sports & Outdoors/Activity & Fitness Trackers",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Adult Electric Bicycles": {
+    "key": "Sports & Outdoors/Adult Electric Bicycles",
+    "l1": "Sports & Outdoors",
+    "l2": "Adult Electric Bicycles",
+    "product_count": 64,
+    "index_path": "indexes/Sports & Outdoors/Adult Electric Bicycles",
+    "critical_slots": [],
+    "optional_slots": [
+      "price_max",
+      "range_km",
+      "motor_power",
+      "tire_type"
+    ],
+    "clarify_priority": [
+      "price_max"
+    ],
+    "clarify_options": {
+      "tire_type": [
+        "regular",
+        "fat tire",
+        "folding"
+      ]
+    },
+    "ranking_features": [
+      "price_fit",
+      "spec_match",
+      "review_score",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Badminton Shuttlecocks": {
+    "key": "Sports & Outdoors/Badminton Shuttlecocks",
+    "l1": "Sports & Outdoors",
+    "l2": "Badminton Shuttlecocks",
+    "product_count": 24,
+    "index_path": "indexes/Sports & Outdoors/Badminton Shuttlecocks",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Baseball Bats": {
+    "key": "Sports & Outdoors/Baseball Bats",
+    "l1": "Sports & Outdoors",
+    "l2": "Baseball Bats",
+    "product_count": 27,
+    "index_path": "indexes/Sports & Outdoors/Baseball Bats",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Basketballs": {
+    "key": "Sports & Outdoors/Basketballs",
+    "l1": "Sports & Outdoors",
+    "l2": "Basketballs",
+    "product_count": 34,
+    "index_path": "indexes/Sports & Outdoors/Basketballs",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Camping Hand Warmers": {
+    "key": "Sports & Outdoors/Camping Hand Warmers",
+    "l1": "Sports & Outdoors",
+    "l2": "Camping Hand Warmers",
+    "product_count": 37,
+    "index_path": "indexes/Sports & Outdoors/Camping Hand Warmers",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Camping Tents": {
+    "key": "Sports & Outdoors/Camping Tents",
+    "l1": "Sports & Outdoors",
+    "l2": "Camping Tents",
+    "product_count": 49,
+    "index_path": "indexes/Sports & Outdoors/Camping Tents",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Hiking Daypacks": {
+    "key": "Sports & Outdoors/Hiking Daypacks",
+    "l1": "Sports & Outdoors",
+    "l2": "Hiking Daypacks",
+    "product_count": 15,
+    "index_path": "indexes/Sports & Outdoors/Hiking Daypacks",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Kids' Bicycles": {
+    "key": "Sports & Outdoors/Kids' Bicycles",
+    "l1": "Sports & Outdoors",
+    "l2": "Kids' Bicycles",
+    "product_count": 36,
+    "index_path": "indexes/Sports & Outdoors/Kids' Bicycles",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Mountain Bikes": {
+    "key": "Sports & Outdoors/Mountain Bikes",
+    "l1": "Sports & Outdoors",
+    "l2": "Mountain Bikes",
+    "product_count": 29,
+    "index_path": "indexes/Sports & Outdoors/Mountain Bikes",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Soccer Balls": {
+    "key": "Sports & Outdoors/Soccer Balls",
+    "l1": "Sports & Outdoors",
+    "l2": "Soccer Balls",
+    "product_count": 17,
+    "index_path": "indexes/Sports & Outdoors/Soccer Balls",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Strength Training Grip Strengtheners": {
+    "key": "Sports & Outdoors/Strength Training Grip Strengtheners",
+    "l1": "Sports & Outdoors",
+    "l2": "Strength Training Grip Strengtheners",
+    "product_count": 20,
+    "index_path": "indexes/Sports & Outdoors/Strength Training Grip Strengtheners",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors/Water Bottles": {
+    "key": "Sports & Outdoors/Water Bottles",
+    "l1": "Sports & Outdoors",
+    "l2": "Water Bottles",
+    "product_count": 84,
+    "index_path": "indexes/Sports & Outdoors/Water Bottles",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Action Figures": {
+    "key": "Toys & Kids/Action Figures",
+    "l1": "Toys & Kids",
+    "l2": "Action Figures",
+    "product_count": 51,
+    "index_path": "indexes/Toys & Kids/Action Figures",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Baby Bottles": {
+    "key": "Toys & Kids/Baby Bottles",
+    "l1": "Toys & Kids",
+    "l2": "Baby Bottles",
+    "product_count": 59,
+    "index_path": "indexes/Toys & Kids/Baby Bottles",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Domino & Tile Games": {
+    "key": "Toys & Kids/Domino & Tile Games",
+    "l1": "Toys & Kids",
+    "l2": "Domino & Tile Games",
+    "product_count": 32,
+    "index_path": "indexes/Toys & Kids/Domino & Tile Games",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Educational Science Kits": {
+    "key": "Toys & Kids/Educational Science Kits",
+    "l1": "Toys & Kids",
+    "l2": "Educational Science Kits",
+    "product_count": 20,
+    "index_path": "indexes/Toys & Kids/Educational Science Kits",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Gags & Practical Joke Toys": {
+    "key": "Toys & Kids/Gags & Practical Joke Toys",
+    "l1": "Toys & Kids",
+    "l2": "Gags & Practical Joke Toys",
+    "product_count": 20,
+    "index_path": "indexes/Toys & Kids/Gags & Practical Joke Toys",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Hobby RC Cars": {
+    "key": "Toys & Kids/Hobby RC Cars",
+    "l1": "Toys & Kids",
+    "l2": "Hobby RC Cars",
+    "product_count": 35,
+    "index_path": "indexes/Toys & Kids/Hobby RC Cars",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Hobby RC Quadcopters & Multirotors": {
+    "key": "Toys & Kids/Hobby RC Quadcopters & Multirotors",
+    "l1": "Toys & Kids",
+    "l2": "Hobby RC Quadcopters & Multirotors",
+    "product_count": 35,
+    "index_path": "indexes/Toys & Kids/Hobby RC Quadcopters & Multirotors",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Kids' Fitness Equipment": {
+    "key": "Toys & Kids/Kids' Fitness Equipment",
+    "l1": "Toys & Kids",
+    "l2": "Kids' Fitness Equipment",
+    "product_count": 17,
+    "index_path": "indexes/Toys & Kids/Kids' Fitness Equipment",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Kids' Play Cars & Race Cars": {
+    "key": "Toys & Kids/Kids' Play Cars & Race Cars",
+    "l1": "Toys & Kids",
+    "l2": "Kids' Play Cars & Race Cars",
+    "product_count": 15,
+    "index_path": "indexes/Toys & Kids/Kids' Play Cars & Race Cars",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Plush Figure Toys": {
+    "key": "Toys & Kids/Plush Figure Toys",
+    "l1": "Toys & Kids",
+    "l2": "Plush Figure Toys",
+    "product_count": 19,
+    "index_path": "indexes/Toys & Kids/Plush Figure Toys",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Plush Interactive Toy Figures": {
+    "key": "Toys & Kids/Plush Interactive Toy Figures",
+    "l1": "Toys & Kids",
+    "l2": "Plush Interactive Toy Figures",
+    "product_count": 19,
+    "index_path": "indexes/Toys & Kids/Plush Interactive Toy Figures",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Slime & Putty Toys": {
+    "key": "Toys & Kids/Slime & Putty Toys",
+    "l1": "Toys & Kids",
+    "l2": "Slime & Putty Toys",
+    "product_count": 23,
+    "index_path": "indexes/Toys & Kids/Slime & Putty Toys",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Sorting & Stacking Toys": {
+    "key": "Toys & Kids/Sorting & Stacking Toys",
+    "l1": "Toys & Kids",
+    "l2": "Sorting & Stacking Toys",
+    "product_count": 25,
+    "index_path": "indexes/Toys & Kids/Sorting & Stacking Toys",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Standard Baby Strollers": {
+    "key": "Toys & Kids/Standard Baby Strollers",
+    "l1": "Toys & Kids",
+    "l2": "Standard Baby Strollers",
+    "product_count": 20,
+    "index_path": "indexes/Toys & Kids/Standard Baby Strollers",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Standard Playing Card Decks": {
+    "key": "Toys & Kids/Standard Playing Card Decks",
+    "l1": "Toys & Kids",
+    "l2": "Standard Playing Card Decks",
+    "product_count": 20,
+    "index_path": "indexes/Toys & Kids/Standard Playing Card Decks",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Stuffed Animals & Teddy Bears": {
+    "key": "Toys & Kids/Stuffed Animals & Teddy Bears",
+    "l1": "Toys & Kids",
+    "l2": "Stuffed Animals & Teddy Bears",
+    "product_count": 58,
+    "index_path": "indexes/Toys & Kids/Stuffed Animals & Teddy Bears",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Toy Building Sets": {
+    "key": "Toys & Kids/Toy Building Sets",
+    "l1": "Toys & Kids",
+    "l2": "Toy Building Sets",
+    "product_count": 69,
+    "index_path": "indexes/Toys & Kids/Toy Building Sets",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "theme"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen / adult"
+      ],
+      "theme": [
+        "city",
+        "space",
+        "nature",
+        "vehicles",
+        "fantasy"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "theme_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Toy Foam Blasters": {
+    "key": "Toys & Kids/Toy Foam Blasters",
+    "l1": "Toys & Kids",
+    "l2": "Toy Foam Blasters",
+    "product_count": 18,
+    "index_path": "indexes/Toys & Kids/Toy Foam Blasters",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids/Toy Foods": {
+    "key": "Toys & Kids/Toy Foods",
+    "l1": "Toys & Kids",
+    "l2": "Toy Foods",
+    "product_count": 21,
+    "index_path": "indexes/Toys & Kids/Toy Foods",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Beauty & Health": {
+    "key": "Beauty & Health",
+    "l1": "Beauty & Health",
+    "l2": null,
+    "product_count": 2456,
+    "index_path": "indexes/Beauty & Health/_l1",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "skin_type",
+      "benefit",
+      "brand",
+      "price_max",
+      "ingredient"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "skincare",
+        "hair care",
+        "makeup",
+        "fragrance",
+        "vitamins",
+        "personal care device"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "benefit_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Books & Media": {
+    "key": "Books & Media",
+    "l1": "Books & Media",
+    "l2": null,
+    "product_count": 851,
+    "index_path": "indexes/Books & Media/_l1",
+    "critical_slots": [],
+    "optional_slots": [
+      "genre",
+      "author",
+      "format",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "format": [
+        "paperback",
+        "hardcover",
+        "ebook",
+        "audiobook",
+        "CD",
+        "vinyl"
+      ]
+    },
+    "ranking_features": [
+      "genre_fit",
+      "format_fit",
+      "review_score",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Clothing & Fashion": {
+    "key": "Clothing & Fashion",
+    "l1": "Clothing & Fashion",
+    "l2": null,
+    "product_count": 3840,
+    "index_path": "indexes/Clothing & Fashion/_l1",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "size",
+      "gender",
+      "brand",
+      "price_max",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type",
+      "gender"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "shoes",
+        "jacket",
+        "dress",
+        "jeans",
+        "shirt",
+        "bag",
+        "accessories",
+        "jewelry"
+      ],
+      "gender": [
+        "men",
+        "women",
+        "kids",
+        "unisex"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "gender_fit",
+      "price_fit",
+      "brand_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Electronics": {
+    "key": "Electronics",
+    "l1": "Electronics",
+    "l2": null,
+    "product_count": 4009,
+    "index_path": "indexes/Electronics/_l1",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "brand",
+      "price_max",
+      "color",
+      "features"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop",
+        "monitor",
+        "headphones",
+        "smartwatch",
+        "tablet",
+        "keyboard",
+        "mouse",
+        "TV",
+        "camera",
+        "speaker"
+      ]
+    },
+    "ranking_features": [
+      "spec_match",
+      "brand_fit",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Grocery & Food": {
+    "key": "Grocery & Food",
+    "l1": "Grocery & Food",
+    "l2": null,
+    "product_count": 1462,
+    "index_path": "indexes/Grocery & Food/_l1",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "flavor",
+      "dietary",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "coffee",
+        "tea",
+        "snacks",
+        "drinks",
+        "candy",
+        "condiments"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "dietary_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Home & Living": {
+    "key": "Home & Living",
+    "l1": "Home & Living",
+    "l2": null,
+    "product_count": 4185,
+    "index_path": "indexes/Home & Living/_l1",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "color",
+      "material",
+      "price_max",
+      "size",
+      "style"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "chair",
+        "desk",
+        "lamp",
+        "mirror",
+        "curtains",
+        "bed frame",
+        "sofa",
+        "rug",
+        "shelf",
+        "table"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "color_fit",
+      "price_fit",
+      "material_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Office & Stationery": {
+    "key": "Office & Stationery",
+    "l1": "Office & Stationery",
+    "l2": null,
+    "product_count": 889,
+    "index_path": "indexes/Office & Stationery/_l1",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "color",
+      "price_max"
+    ],
+    "clarify_priority": [],
+    "clarify_options": {
+      "product_type": [
+        "pen",
+        "notebook",
+        "mouse pad",
+        "desk",
+        "chair",
+        "paper"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Pet Supplies": {
+    "key": "Pet Supplies",
+    "l1": "Pet Supplies",
+    "l2": null,
+    "product_count": 386,
+    "index_path": "indexes/Pet Supplies/_l1",
+    "critical_slots": [
+      "pet_type"
+    ],
+    "optional_slots": [
+      "product_type",
+      "breed_size",
+      "brand",
+      "price_max",
+      "diet"
+    ],
+    "clarify_priority": [
+      "pet_type"
+    ],
+    "clarify_options": {
+      "pet_type": [
+        "dog",
+        "cat",
+        "bird",
+        "fish",
+        "small animal"
+      ],
+      "product_type": [
+        "food",
+        "treats",
+        "toys",
+        "accessories",
+        "health"
+      ]
+    },
+    "ranking_features": [
+      "pet_type_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Sports & Outdoors": {
+    "key": "Sports & Outdoors",
+    "l1": "Sports & Outdoors",
+    "l2": null,
+    "product_count": 1010,
+    "index_path": "indexes/Sports & Outdoors/_l1",
+    "critical_slots": [],
+    "optional_slots": [
+      "product_type",
+      "sport",
+      "size",
+      "brand",
+      "price_max"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "bicycle",
+        "tent",
+        "water bottle",
+        "fitness tracker",
+        "basketball",
+        "football",
+        "yoga",
+        "camping gear"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "sport_fit",
+      "brand_fit",
+      "price_fit"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "Toys & Kids": {
+    "key": "Toys & Kids",
+    "l1": "Toys & Kids",
+    "l2": null,
+    "product_count": 1130,
+    "index_path": "indexes/Toys & Kids/_l1",
+    "critical_slots": [
+      "age_range"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "gender"
+    ],
+    "clarify_priority": [
+      "age_range"
+    ],
+    "clarify_options": {
+      "age_range": [
+        "0-2 years",
+        "3-5 years",
+        "6-8 years",
+        "9-12 years",
+        "teen"
+      ],
+      "product_type": [
+        "building sets",
+        "action figures",
+        "stuffed animals",
+        "board games",
+        "outdoor toys",
+        "RC toys"
+      ]
+    },
+    "ranking_features": [
+      "age_fit",
+      "type_match",
+      "brand_fit",
+      "price_fit",
+      "safety_score"
+    ],
+    "min_products_before_clarify": 50
+  },
+  "_global": {
+    "key": "_global",
+    "l1": null,
+    "l2": null,
+    "product_count": 22203,
+    "index_path": "indexes/_global",
+    "critical_slots": [
+      "product_type"
+    ],
+    "optional_slots": [
+      "product_type",
+      "brand",
+      "price_max",
+      "color"
+    ],
+    "clarify_priority": [
+      "product_type"
+    ],
+    "clarify_options": {
+      "product_type": [
+        "laptop / computer",
+        "phone / tablet",
+        "headphones / speakers",
+        "clothing / shoes",
+        "home & furniture",
+        "beauty & health",
+        "toys & kids",
+        "sports & outdoors",
+        "pet supplies",
+        "food & grocery"
+      ]
+    },
+    "ranking_features": [
+      "type_match",
+      "price_fit",
+      "review_score"
+    ],
+    "min_products_before_clarify": 100
+  }
+}

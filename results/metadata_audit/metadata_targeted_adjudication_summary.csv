@@ -1,0 +1,12 @@
+Metric,Count,Rate,Interpretation
+Observed post-revision recommendation events,277,,Same denominator used by observed PRCR/SPVR.
+Original unknown/unverifiable events,7,0.02527075812274368,Events where title-level PRCR/SPVR evidence was insufficient.
+Unknown resolved as supported by metadata,2,0.2857142857142857,Metadata gives positive evidence for the active preference.
+Unknown resolved as contradiction by metadata,2,0.2857142857142857,Metadata converts an unknown case into a visible conflict.
+Unknown still unverifiable after metadata,3,0.42857142857142855,Even metadata lacks enough evidence; not counted as confirmed failure.
+Original stale-violation events,14,0.05054151624548736,Events previously flagged as visible stale preference conflicts.
+Stale violations confirmed by metadata,3,0.21428571428571427,Metadata supports the stale/conflict label.
+Stale violations not confirmed by metadata,11,0.7857142857142857,Metadata does not prove the stale label; inspect manually if used as example.
+Original noncompliant events,21,0.07581227436823104,Events with Compliant=0 in the PRCR/SPVR table.
+Noncompliance confirmed by metadata contradiction,5,0.23809523809523808,Metadata-visible conflict among noncompliant cases.
+Clear metadata-visible contradictions overall,10,0.036101083032490974,Conservative contradiction-only rate over all observed recommendation events.

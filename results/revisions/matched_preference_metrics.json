@@ -1,0 +1,263 @@
+{
+  "Full PRISM": {
+    "pooled": {
+      "events": 370,
+      "follow_up": 277,
+      "no_follow_up": 93,
+      "coverage": 0.7486486486486487,
+      "PRCR": 0.924187725631769,
+      "SPVR": 0.05054151624548736,
+      "unknown": 0.02527075812274368,
+      "compliant_count": 256,
+      "stale_count": 14,
+      "unknown_count": 7
+    },
+    "by_fold": {
+      "fold1": {
+        "events": 102,
+        "follow_up": 81,
+        "no_follow_up": 21,
+        "coverage": 0.7941176470588235,
+        "PRCR": 0.9012345679012346,
+        "SPVR": 0.06172839506172839,
+        "unknown": 0.037037037037037035,
+        "compliant_count": 73,
+        "stale_count": 5,
+        "unknown_count": 3
+      },
+      "fold2": {
+        "events": 76,
+        "follow_up": 49,
+        "no_follow_up": 27,
+        "coverage": 0.6447368421052632,
+        "PRCR": 0.9183673469387755,
+        "SPVR": 0.04081632653061224,
+        "unknown": 0.04081632653061224,
+        "compliant_count": 45,
+        "stale_count": 2,
+        "unknown_count": 2
+      },
+      "fold3": {
+        "events": 98,
+        "follow_up": 72,
+        "no_follow_up": 26,
+        "coverage": 0.7346938775510204,
+        "PRCR": 0.9305555555555556,
+        "SPVR": 0.05555555555555555,
+        "unknown": 0.013888888888888888,
+        "compliant_count": 67,
+        "stale_count": 4,
+        "unknown_count": 1
+      },
+      "fold4": {
+        "events": 94,
+        "follow_up": 75,
+        "no_follow_up": 19,
+        "coverage": 0.7978723404255319,
+        "PRCR": 0.9466666666666667,
+        "SPVR": 0.04,
+        "unknown": 0.013333333333333334,
+        "compliant_count": 71,
+        "stale_count": 3,
+        "unknown_count": 1
+      }
+    }
+  },
+  "Fixed workflow": {
+    "pooled": {
+      "events": 370,
+      "follow_up": 270,
+      "no_follow_up": 100,
+      "coverage": 0.7297297297297297,
+      "PRCR": 0.7888888888888889,
+      "SPVR": 0.1814814814814815,
+      "unknown": 0.02962962962962963,
+      "compliant_count": 213,
+      "stale_count": 49,
+      "unknown_count": 8
+    },
+    "by_fold": {
+      "fold1": {
+        "events": 102,
+        "follow_up": 78,
+        "no_follow_up": 24,
+        "coverage": 0.7647058823529411,
+        "PRCR": 0.7051282051282052,
+        "SPVR": 0.2564102564102564,
+        "unknown": 0.038461538461538464,
+        "compliant_count": 55,
+        "stale_count": 20,
+        "unknown_count": 3
+      },
+      "fold2": {
+        "events": 76,
+        "follow_up": 48,
+        "no_follow_up": 28,
+        "coverage": 0.631578947368421,
+        "PRCR": 0.8333333333333334,
+        "SPVR": 0.125,
+        "unknown": 0.041666666666666664,
+        "compliant_count": 40,
+        "stale_count": 6,
+        "unknown_count": 2
+      },
+      "fold3": {
+        "events": 98,
+        "follow_up": 72,
+        "no_follow_up": 26,
+        "coverage": 0.7346938775510204,
+        "PRCR": 0.8055555555555556,
+        "SPVR": 0.16666666666666666,
+        "unknown": 0.027777777777777776,
+        "compliant_count": 58,
+        "stale_count": 12,
+        "unknown_count": 2
+      },
+      "fold4": {
+        "events": 94,
+        "follow_up": 72,
+        "no_follow_up": 22,
+        "coverage": 0.7659574468085106,
+        "PRCR": 0.8333333333333334,
+        "SPVR": 0.1527777777777778,
+        "unknown": 0.013888888888888888,
+        "compliant_count": 60,
+        "stale_count": 11,
+        "unknown_count": 1
+      }
+    }
+  },
+  "Single agent": {
+    "pooled": {
+      "events": 370,
+      "follow_up": 133,
+      "no_follow_up": 237,
+      "coverage": 0.35945945945945945,
+      "PRCR": 0.7669172932330827,
+      "SPVR": 0.18045112781954886,
+      "unknown": 0.05263157894736842,
+      "compliant_count": 102,
+      "stale_count": 24,
+      "unknown_count": 7
+    },
+    "by_fold": {
+      "fold1": {
+        "events": 102,
+        "follow_up": 39,
+        "no_follow_up": 63,
+        "coverage": 0.38235294117647056,
+        "PRCR": 0.6923076923076923,
+        "SPVR": 0.23076923076923078,
+        "unknown": 0.07692307692307693,
+        "compliant_count": 27,
+        "stale_count": 9,
+        "unknown_count": 3
+      },
+      "fold2": {
+        "events": 76,
+        "follow_up": 26,
+        "no_follow_up": 50,
+        "coverage": 0.34210526315789475,
+        "PRCR": 0.8461538461538461,
+        "SPVR": 0.07692307692307693,
+        "unknown": 0.07692307692307693,
+        "compliant_count": 22,
+        "stale_count": 2,
+        "unknown_count": 2
+      },
+      "fold3": {
+        "events": 98,
+        "follow_up": 33,
+        "no_follow_up": 65,
+        "coverage": 0.336734693877551,
+        "PRCR": 0.696969696969697,
+        "SPVR": 0.2727272727272727,
+        "unknown": 0.030303030303030304,
+        "compliant_count": 23,
+        "stale_count": 9,
+        "unknown_count": 1
+      },
+      "fold4": {
+        "events": 94,
+        "follow_up": 35,
+        "no_follow_up": 59,
+        "coverage": 0.3723404255319149,
+        "PRCR": 0.8571428571428571,
+        "SPVR": 0.11428571428571428,
+        "unknown": 0.02857142857142857,
+        "compliant_count": 30,
+        "stale_count": 4,
+        "unknown_count": 1
+      }
+    }
+  },
+  "regression_mismatches": [],
+  "method": {
+    "reference_events": 370,
+    "threshold": 0.5,
+    "active_match_fraction": 0.5,
+    "follow_up": "first recommendation strictly after revision turn; retained sets count if logged recommended",
+    "manual_events": "Six reference additions checked separately; equal product-ID cases reuse evidence; explicit Tall case flagged; human validation pending",
+    "product_rejections": "Exact ID intersection, regression-verified against archived Full PRISM",
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "inputs": {
+      "Full PRISM/fold1": {
+        "path": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/prims_full_run/fold1_full/turns_test_20261022_073007.csv",
+        "sha256": "0f3bc4c225b032e3fc6197690c771c6b7fbfcf23f762f272dcd782b4e39377be"
+      },
+      "Full PRISM/fold2": {
+        "path": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/prims_full_run/fold2_full/turns_test_20261022_055900.csv",
+        "sha256": "202ec26d5751ff2d71abf7bb586d5bfba70fb1a619c0bc0ee7b5f680043a99f4"
+      },
+      "Full PRISM/fold3": {
+        "path": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/prims_full_run/fold3_full/turns_test_20261021_234129.csv",
+        "sha256": "35e3d2be63edcedf32509e8e67c1cd93a930c8f31a71db1330ebec6b9d3fe271"
+      },
+      "Full PRISM/fold4": {
+        "path": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/prims_full_run/fold4_full/turns_test_20261021_212906.csv",
+        "sha256": "c983982f656826835f79d4f33583a4e3909c65f8989e772ae47810caee53b901"
+      },
+      "Fixed workflow/fold1": {
+        "path": "/Users/nishu/Downloads/fixed_workflow/fold1_full/turns_test_20261030_193852.csv",
+        "sha256": "15435286da2ff26a2538bc77aab7d476ee61a0632ffc8e02ff4093d079ef2d17"
+      },
+      "Fixed workflow/fold2": {
+        "path": "/Users/nishu/Downloads/fixed_workflow/fold2_full/turns_test_20261030_184717.csv",
+        "sha256": "b0ad1b3fdacc5746147ce87943f9e44d95231c454753802874a51ca05318ed32"
+      },
+      "Fixed workflow/fold3": {
+        "path": "/Users/nishu/Downloads/fixed_workflow/fold3_full/turns_test_20261030_061150.csv",
+        "sha256": "4bc27a72344427143bb29746579102f9bafae6561c2f81630fc4292c19309d1f"
+      },
+      "Fixed workflow/fold4": {
+        "path": "/Users/nishu/Downloads/fixed_workflow/fold4_full/turns_test_20261030_045316.csv",
+        "sha256": "86ca373f2299ef412cdc880c94f8f133075ccd05369c9e3eec7d79b449b644cf"
+      },
+      "Single agent/fold1": {
+        "path": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/single_agent_baseline/fold1_final/turns_test_20261026_003218.csv",
+        "sha256": "7df3238840de489922fcd596e3f68ed508f4d74b334eb549e97b5c173892c7ab",
+        "missing_turn_keys": [
+          [
+            "106603",
+            3
+          ]
+        ]
+      },
+      "Single agent/fold2": {
+        "path": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/single_agent_baseline/fold2_final/turns_test_20261026_044300.csv",
+        "sha256": "7ff17eab08d8dc3f1970c03e7d91a8535deb880866daa3cdeeb0a2b59c51f614",
+        "missing_turn_keys": []
+      },
+      "Single agent/fold3": {
+        "path": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/single_agent_baseline/fold3_final/turns_test_20261026_051345.csv",
+        "sha256": "882869da0d47725d5fbd1e8dda3c27adf3b43daa8ff300c479fc64f9d2dd6624",
+        "missing_turn_keys": []
+      },
+      "Single agent/fold4": {
+        "path": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/single_agent_baseline/fold4_final/turns_test_20261026_054345.csv",
+        "sha256": "bfdfd8aad60266f29bbc7d6933263ace1a16cdc80c8ecee875246abc03c246de",
+        "missing_turn_keys": []
+      }
+    }
+  }
+}

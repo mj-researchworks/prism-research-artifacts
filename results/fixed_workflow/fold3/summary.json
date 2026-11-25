@@ -1,0 +1,343 @@
+{
+  "split": "test",
+  "fold": "fold3",
+  "split_directory": "/content/drive/MyDrive/PRISM_AUTONOMOUS_FIXED_Workflow_Baseline/outputs/fold3",
+  "planner_mode": "fixed_workflow",
+  "execution_scope": "fixed_workflow",
+  "retrieval_backend": "conserve_stack",
+  "effective_config": {
+    "AUTONOMOUS_RETRIEVAL_BACKEND": "conserve_stack",
+    "AUTONOMOUS_EXECUTION_SCOPE": "fixed_workflow",
+    "AUTONOMOUS_PLANNER_MODE": "",
+    "AUTONOMOUS_PLANNER_PROVIDER": "",
+    "AUTONOMOUS_PLANNER_MODEL": "",
+    "AUTONOMOUS_PLANNER_TIMEOUT": "",
+    "AUTONOMOUS_PLAN_POLICY_MODE": "",
+    "AUTONOMOUS_REFLECTION_MODE": "agent",
+    "AUTONOMOUS_REFLECTION_PROVIDER": "deepseek",
+    "AUTONOMOUS_REFLECTION_MODEL": "deepseek-v4-flash",
+    "AUTONOMOUS_REFLECTION_TIMEOUT": "60",
+    "AUTONOMOUS_CRITIC_MODE": "hybrid",
+    "AUTONOMOUS_CRITIC_PROVIDER": "deepseek",
+    "AUTONOMOUS_CRITIC_MODEL": "deepseek-v4-flash",
+    "AUTONOMOUS_CRITIC_TIMEOUT": "60",
+    "AUTONOMOUS_RESPONSE_MODE": "template",
+    "AUTONOMOUS_RESPONSE_PROVIDER": "",
+    "AUTONOMOUS_RESPONSE_MODEL": "",
+    "AUTONOMOUS_RESPONSE_TIMEOUT": "",
+    "AUTONOMOUS_RESPONSE_LLM_RECOMMENDATIONS": "",
+    "AUTONOMOUS_REASONING_BUDGET": "",
+    "AUTONOMOUS_DECISION_DIVERSITY": "",
+    "AUTONOMOUS_AGENT_ADJUSTMENT_WEIGHT": "",
+    "AUTONOMOUS_TRIPLET_CONTEXT": "",
+    "MACPRS_USE_TRIPLET_RERANKER": "",
+    "MACPRS_TRIPLET_MODEL_PATH": "/content/drive/MyDrive/PRISM_AUTONOMOUS_FIXED_Workflow_Baseline/e5_fold3_best_model",
+    "MACPRS_TRIPLET_FUSION_MODE": "",
+    "MACPRS_TRIPLET_BLEND_WEIGHT": ""
+  },
+  "n_conversations_total": 206,
+  "n_conversations_failed": 0,
+  "n_conversations_with_gt": 188,
+  "n_turns": 788,
+  "intent_diagnostics": {
+    "n_turns_with_gold_and_prediction": 788,
+    "accuracy": 0.7982,
+    "macro_f1": 0.4656,
+    "weighted_f1": 0.799,
+    "labels": [
+      "reveal",
+      "interpret",
+      "revise",
+      "inquire",
+      "chitchat"
+    ],
+    "per_class": {
+      "reveal": {
+        "precision": 0.9086,
+        "recall": 0.716,
+        "f1": 0.8009,
+        "support": 250
+      },
+      "interpret": {
+        "precision": 0.82,
+        "recall": 0.9193,
+        "f1": 0.8668,
+        "support": 446
+      },
+      "revise": {
+        "precision": 0.1667,
+        "recall": 0.0588,
+        "f1": 0.087,
+        "support": 17
+      },
+      "inquire": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 3
+      },
+      "chitchat": {
+        "precision": 0.6094,
+        "recall": 0.5417,
+        "f1": 0.5735,
+        "support": 72
+      }
+    },
+    "confusion_matrix": {
+      "reveal": {
+        "reveal": 179,
+        "interpret": 52,
+        "revise": 0,
+        "inquire": 14,
+        "chitchat": 5
+      },
+      "interpret": {
+        "reveal": 5,
+        "interpret": 410,
+        "revise": 5,
+        "inquire": 6,
+        "chitchat": 20
+      },
+      "revise": {
+        "reveal": 5,
+        "interpret": 11,
+        "revise": 1,
+        "inquire": 0,
+        "chitchat": 0
+      },
+      "inquire": {
+        "reveal": 1,
+        "interpret": 2,
+        "revise": 0,
+        "inquire": 0,
+        "chitchat": 0
+      },
+      "chitchat": {
+        "reveal": 7,
+        "interpret": 25,
+        "revise": 0,
+        "inquire": 1,
+        "chitchat": 39
+      }
+    }
+  },
+  "elapsed_seconds": 3802.14,
+  "n_conversations_recommended": 195,
+  "ndcg@3": 0.5469,
+  "ndcg@10": 0.4819,
+  "hit@1": 0.5532,
+  "hit@3": 0.7181,
+  "hit@5": 0.7713,
+  "hit@10": 0.8351,
+  "mrr": 0.6399,
+  "displayed_ndcg@3": 0.5469,
+  "displayed_ndcg@10": 0.2573,
+  "displayed_hit@1": 0.5532,
+  "displayed_hit@3": 0.7181,
+  "displayed_hit@5": 0.7181,
+  "displayed_hit@10": 0.7181,
+  "displayed_mrr": 0.625,
+  "internal_ranked_ndcg@3": 0.5338,
+  "internal_ranked_ndcg@10": 0.4819,
+  "internal_ranked_hit@1": 0.5426,
+  "internal_ranked_hit@3": 0.7074,
+  "internal_ranked_hit@5": 0.7713,
+  "internal_ranked_hit@10": 0.8351,
+  "internal_ranked_mrr": 0.6399,
+  "recall@50": 0.5075,
+  "search_hit_rate": 0.9415,
+  "search_recall": 0.5075,
+  "retrieval_miss_rate": 0.0585,
+  "rerank_loss@3_rate": 0.2234,
+  "rerank_loss@3_given_search_hit": 0.2373,
+  "exact_recommendation_hit@3": 0.7181,
+  "exact_recommendation_precision": 0.5461,
+  "exact_recommendation_recall": 0.0763,
+  "exact_recommendation_f1": 0.1303,
+  "displayed_semantic_hit_rate": 0.9468,
+  "displayed_semantic_precision": 0.9113,
+  "displayed_semantic_recall": 0.7412,
+  "displayed_semantic_f1": 0.797,
+  "internal_ranked_semantic_hit_rate": 0.9415,
+  "internal_ranked_semantic_precision": 0.9096,
+  "internal_ranked_semantic_recall": 0.7391,
+  "internal_ranked_semantic_f1": 0.7938,
+  "atr": 1.3398,
+  "success_rate@3": 0.6553,
+  "success_rate@5": 0.7039,
+  "success_rate@10": 0.7621,
+  "llm_planner_turn_rate": 0.0,
+  "planner_unchanged_execution_rate": 0.0,
+  "planner_unchanged_turn_rate": 0.0,
+  "planner_fallback_turn_rate": 0.0,
+  "guard_intervention_turn_rate": 0.0,
+  "guard_intervention_reasons": {},
+  "planner_steps_avg": 7.0355,
+  "planner_steps_max": 9,
+  "components_per_turn_avg": 7.0355,
+  "components_per_turn_max": 9,
+  "planner_duration_ms_avg": 0.0,
+  "component_duration_ms_total": {
+    "intent_agent": 1503,
+    "preference_reflection_agent": 1807859,
+    "search_research_agent": 1038,
+    "critic_verification_agent": 1462179,
+    "conserve_search_tool": 457199,
+    "recommendation_decision_agent": 2238,
+    "response_tool": 3031
+  },
+  "retrieval_call_turn_rate": 0.6294,
+  "retrieval_cache_hits": 27,
+  "retrieval_cache_misses": 469,
+  "retrieval_candidate_reuse_calls": 0,
+  "retrieval_cache_hit_rate": 0.0544,
+  "retrieval_cache_miss_rate": 0.9456,
+  "actual_retrieval_call_turn_rate": 0.5952,
+  "reasoning_reflection_calls": 788,
+  "reasoning_reflection_failures": 1,
+  "reasoning_reflection_skips": 0,
+  "reasoning_reflection_cache_hits": 1,
+  "reflection_call_turn_rate": 1.0,
+  "reflection_skip_turn_rate": 0.0,
+  "reflection_cache_hit_rate": 0.0013,
+  "reflection_failure_rate": 0.0013,
+  "critic_reasoning_calls": 566,
+  "critic_reasoning_failures": 0,
+  "critic_reasoning_skips": 0,
+  "critic_reasoning_cache_hits": 3,
+  "critic_call_turn_rate": 0.7183,
+  "critic_skip_turn_rate": 0.0,
+  "critic_cache_hit_rate": 0.0053,
+  "critic_failure_rate": 0.0,
+  "llm_calls_per_conversation": 6.57,
+  "search_again_actions": 11,
+  "search_again_turn_rate": 0.014,
+  "fallback_retrieval_calls": 0,
+  "full_stack_retrieval_failures": 0,
+  "fallback_retrieval_rate": 0.0,
+  "full_stack_failure_rate": 0.0,
+  "latency_ms_avg": 4760.4454,
+  "latency_ms_p50": 4314.5,
+  "latency_ms_p95": 6270.45,
+  "latency_ms_max": 649212,
+  "conversation_latency_ms_avg": 4652.4277,
+  "conversation_latency_ms_p50": 3878.9,
+  "conversation_latency_ms_p95": 5162.0,
+  "planner_prompt_tokens": 0,
+  "planner_completion_tokens": 0,
+  "planner_total_tokens": 0,
+  "planner_tokens_per_turn": 0.0,
+  "planner_tokens_per_conversation": 0.0,
+  "reasoning_depths": {},
+  "quality_risks": {},
+  "control_flags": {
+    "underspecified_product_type": 4,
+    "missing_search_request": 11
+  },
+  "preference_flags": {
+    "preference_instability_signal": 317
+  },
+  "safety_flags": {},
+  "unclassified_flags": {
+    "fixed_recovery_disabled": 23
+  },
+  "memory_events_total": 1296,
+  "memory_event_turn_rate": 0.7157,
+  "memory_events_per_turn": 1.6447,
+  "memory_events_per_conversation": 6.2913,
+  "memory_event_types": {
+    "brand_preference": 92,
+    "feature_preference": 678,
+    "product_rejection": 120,
+    "preference_revision": 127,
+    "preference_withdrawal": 35,
+    "product_type_recovery": 162,
+    "feature_rejection": 60,
+    "brand_rejection": 13,
+    "preference_clear": 9
+  },
+  "memory_event_scopes": {
+    "preference_update": 967,
+    "state_change": 329
+  },
+  "preference_revision_events": 136,
+  "preference_rejection_events": 193,
+  "preference_acceptance_events": 0,
+  "planner_backends": {
+    "fixed_workflow": 788
+  },
+  "retrieval_actual_backends": {
+    "conserve_stack": 496
+  },
+  "triplet_reranker_diagnostics": {
+    "triplet_reranker_enabled": true,
+    "triplet_fusion_mode": "score",
+    "triplet_blend_weight": 0.6,
+    "triplet_model_path": "/content/drive/MyDrive/PRISM_AUTONOMOUS_FIXED_Workflow_Baseline/e5_fold3_best_model",
+    "triplet_product_text_path": "/content/drive/MyDrive/PRISM_AUTONOMOUS_FIXED_Workflow_Baseline/data/product_base_retrieval/product_base_retrieval_text.json",
+    "triplet_product_cache_path": "/content/drive/MyDrive/PRISM_AUTONOMOUS_FIXED_Workflow_Baseline/product_embedding_cache_fold3.pt",
+    "triplet_product_cache_count": 22203,
+    "triplet_load_error": null,
+    "available": true
+  },
+  "planner_errors": {},
+  "reflection_errors": {
+    "JSONDecodeError: Expecting ',' delimiter: line 1 column 224 (char 223)": 1
+  },
+  "critic_errors": {},
+  "reflection_call_reasons": {
+    "reflection mode requires the specialized reflection agent": 787
+  },
+  "reflection_skip_reasons": {},
+  "critic_call_reasons": {
+    "critic mode selected LLM verification": 328,
+    "turn contains preference events": 449,
+    "state contains control/preference/safety flags": 251,
+    "hard verifier proposed SEARCH_AGAIN": 34
+  },
+  "critic_skip_reasons": {},
+  "components_called": {
+    "intent_agent": 788,
+    "preference_reflection_agent": 788,
+    "search_research_agent": 566,
+    "retrieval_budget": 566,
+    "critic_verification_agent": 1062,
+    "conserve_search_tool": 496,
+    "recommendation_decision_agent": 467,
+    "response_tool": 811
+  },
+  "critic_decisions": {
+    "ACCEPT": 467,
+    "ASK_USER": 49,
+    "UPDATE_STATE": 39,
+    "SEARCH_AGAIN": 11
+  },
+  "critic_next_actions": {
+    "respond": 467,
+    "clarify": 23,
+    "update_state": 39,
+    "ask_user": 26,
+    "search_again": 11
+  },
+  "fixed_workflow": true,
+  "workflow_sequence": [
+    "intent_agent",
+    "preference_reflection_agent",
+    "search_research_agent",
+    "pre_retrieval_critic",
+    "conserve_search_tool",
+    "post_retrieval_critic",
+    "recommendation_decision_agent",
+    "response_tool"
+  ],
+  "adaptive_planner": false,
+  "adaptive_retry_or_replan": false,
+  "recovery_policy": "terminal clarification/no-match; no search-again",
+  "candidate_budget": {
+    "search_depth": 50,
+    "top_k": 10,
+    "display_k": 3,
+    "max_query_variants": 3
+  },
+  "notes": "PRISM-native fixed sequence; same fold assets and scoring protocol as Full PRISM."
+}

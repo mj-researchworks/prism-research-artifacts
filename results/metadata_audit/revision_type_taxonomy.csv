@@ -1,0 +1,12 @@
+Revision Type,Events,Follow-up,No follow-up,Coverage,Compliant,Stale,Unknown,PRCR,SPVR,Unknown Rate
+Item rejection,235,178,57,0.7574468085106383,167,11,0,0.9382022471910112,0.06179775280898876,0.0
+Feature rejection,55,41,14,0.7454545454545455,39,2,0,0.9512195121951219,0.04878048780487805,0.0
+Subjective/design revision,25,20,5,0.8,19,0,1,0.95,0.0,0.05
+Brand rejection,10,10,0,1.0,10,0,0,1.0,0.0,0.0
+Product-type replacement,10,9,1,0.9,5,0,4,0.5555555555555556,0.0,0.4444444444444444
+Size/dimension constraint,10,7,3,0.7,6,1,0,0.8571428571428571,0.14285714285714285,0.0
+Preference clearing/removal,8,3,5,0.375,3,0,0,1.0,0.0,0.0
+Price constraint,8,2,6,0.25,2,0,0,1.0,0.0,0.0
+Recipient/use-case revision,6,6,0,1.0,4,0,2,0.6666666666666666,0.0,0.3333333333333333
+Other explicit revision,2,1,1,0.5,1,0,0,1.0,0.0,0.0
+Compatibility constraint,1,0,1,0.0,0,0,0,,,

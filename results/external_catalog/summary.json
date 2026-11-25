@@ -1,0 +1,22 @@
+{
+  "selected_conversations": 206,
+  "completed_conversations": 206,
+  "failed_conversations": 0,
+  "conversation_completion_rate": 1.0,
+  "outcomes": {
+    "new_recommendation": 479,
+    "retained_acceptance": 159,
+    "no_new_recommendation": 134,
+    "asked_user": 6,
+    "critic_unresolved": 10
+  },
+  "new_recommendation_turns": 479,
+  "invalid_id_occurrences_all_candidate_lists": 0,
+  "duplicate_display_occurrences": 0,
+  "displayed_rejected_id_occurrences": 0,
+  "conversation_latency_mean_s": 16.44890364572815,
+  "conversation_latency_p50_s": 15.952849670499972,
+  "conversation_latency_p95_s": 25.84814303050007,
+  "total_wall_seconds": 3388.5372548570003,
+  "note": "Completion is execution reliability, not recommendation success. Exclusion audit uses system-detected rejections. Relevance and availability require independent judgments."
+}

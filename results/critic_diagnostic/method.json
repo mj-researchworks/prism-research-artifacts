@@ -1,0 +1,15 @@
+{
+  "comparison": "Full PRISM hybrid critic vs deterministic rule verifier",
+  "fold": "fold3",
+  "reference": "/Users/nishu/Documents/ChatGPT/prism/prcr_spvr_final_september_method/advisor_event_level_prcr_spvr_FINAL.csv",
+  "semantic_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "semantic_threshold": 0.5,
+  "active_match_rate_required": 0.5,
+  "current_verified_list_mismatch_definition": "At least one displayed ID absent from that turn's verified-candidate IDs",
+  "explicit_exclusion_definition": "Displayed ID or metadata brand matches the turn's logged explicit exclusions",
+  "important_limitation": "The no-LLM-critic arm retains deterministic rule verification; this is not a no-verification condition.",
+  "turn_files": {
+    "Full PRISM (hybrid critic)": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/prims_full_run/fold3_full/turns_test_20261021_234129.csv",
+    "Rule verifier (no LLM critic)": "/Users/nishu/Downloads/New Folder With Items/RESULTS_PRISM/Ablation_fold3/fold3_full/no_llm_critic/turns_test_20261027_211825.csv"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "normalization_version": "external_schema_v1",
+  "source_sha256": "1fb82b52f2fec2a7c946c63016725542541ea102d0ca099741a187018f9736e8",
+  "products": 50998,
+  "categories": {
+    "Electronics": 11000,
+    "Home & Living": 7000,
+    "Clothing & Fashion": 6999,
+    "Beauty & Health": 4000,
+    "Office & Stationery": 4000,
+    "Toys & Kids": 4000,
+    "Sports & Outdoors": 4000,
+    "Grocery & Food": 3999,
+    "Books & Media": 3000,
+    "Pet Supplies": 3000
+  },
+  "prices_readable": 16998,
+  "brands_changed": 13749,
+  "brands_unknown": 32447,
+  "category_mapping": {
+    "All_Beauty": "Beauty & Health",
+    "Amazon_Fashion": "Clothing & Fashion",
+    "Books": "Books & Media",
+    "Electronics": "Electronics",
+    "Grocery_and_Gourmet_Food": "Grocery & Food",
+    "Home_and_Kitchen": "Home & Living",
+    "Office_Products": "Office & Stationery",
+    "Pet_Supplies": "Pet Supplies",
+    "Sports_and_Outdoors": "Sports & Outdoors",
+    "Toys_and_Games": "Toys & Kids",
+    "Video_Games": "Electronics"
+  },
+  "files": {
+    "data/product_base_table.json": "25561e5e75e6a405eabe54292fc8f1597068804ce842711ae21c9339f3487764",
+    "data/product_base_category_map.json": "79807bdee19da86acd06d1b05e4b652b170f5422e95dd15294c2e53789a8f0b2",
+    "data/product_category_map.json": "79807bdee19da86acd06d1b05e4b652b170f5422e95dd15294c2e53789a8f0b2",
+    "data/product_base_retrieval/product_base_retrieval_text.json": "c6631bc9085c1da848df1cc176552e39362bb02bc67bdec4edb5f0641af48dcd",
+    "data/product_base_retrieval/ids.json": "7393856a668f920f26757f2e8c9802190b807c810281f13999eae607b5380d1d",
+    "data/product_base_retrieval/bm25_index.json": "fb9fdd77ff17cb490c6d195e10117d13fd6bfb82b04ab208705bb337a91011f9"
+  },
+  "policy": "Schema conversion only; no inferred product types, invented prices, model tuning, or catalogue-specific ranking rules."
+}

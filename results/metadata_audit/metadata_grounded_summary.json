@@ -1,0 +1,72 @@
+{
+  "inputs": {
+    "events": "/Users/nishu/Documents/ChatGPT/prism/prcr_spvr_final_september_method/advisor_event_level_prcr_spvr_FINAL.csv",
+    "product_metadata": "/Users/nishu/Desktop/PRISM_AUTONOMOUS/data/product_base_table.json",
+    "retrieval_text": "/Users/nishu/Desktop/PRISM_AUTONOMOUS/data/product_base_retrieval/product_base_retrieval_text.json"
+  },
+  "events_total": 370,
+  "observed_recommendation_events": 277,
+  "pooled_counts": {
+    "unverifiable": 254,
+    "supported": 13,
+    "contradicted": 10
+  },
+  "folds": [
+    {
+      "Fold": "fold1",
+      "Explicit Revision Events": 102,
+      "Observed Recommendation Events": 81,
+      "No Follow-up Events": 21,
+      "Supported": 4,
+      "Contradicted": 2,
+      "Unverifiable": 75,
+      "Supported Rate": 0.04938271604938271,
+      "Contradicted Rate": 0.024691358024691357,
+      "Unverifiable Rate": 0.9259259259259259
+    },
+    {
+      "Fold": "fold2",
+      "Explicit Revision Events": 76,
+      "Observed Recommendation Events": 49,
+      "No Follow-up Events": 27,
+      "Supported": 4,
+      "Contradicted": 1,
+      "Unverifiable": 44,
+      "Supported Rate": 0.08163265306122448,
+      "Contradicted Rate": 0.02040816326530612,
+      "Unverifiable Rate": 0.8979591836734694
+    },
+    {
+      "Fold": "fold3",
+      "Explicit Revision Events": 98,
+      "Observed Recommendation Events": 72,
+      "No Follow-up Events": 26,
+      "Supported": 2,
+      "Contradicted": 6,
+      "Unverifiable": 64,
+      "Supported Rate": 0.027777777777777776,
+      "Contradicted Rate": 0.08333333333333333,
+      "Unverifiable Rate": 0.8888888888888888
+    },
+    {
+      "Fold": "fold4",
+      "Explicit Revision Events": 94,
+      "Observed Recommendation Events": 75,
+      "No Follow-up Events": 19,
+      "Supported": 3,
+      "Contradicted": 1,
+      "Unverifiable": 71,
+      "Supported Rate": 0.04,
+      "Contradicted Rate": 0.013333333333333334,
+      "Unverifiable Rate": 0.9466666666666667
+    }
+  ],
+  "outputs": {
+    "event_verification": "/Users/nishu/Documents/ChatGPT/prism/metadata_grounded_finalized_prcr_spvr_20261029/metadata_grounded_event_verification.csv",
+    "product_evidence": "/Users/nishu/Documents/ChatGPT/prism/metadata_grounded_finalized_prcr_spvr_20261029/metadata_grounded_product_evidence.csv",
+    "fold_summary": "/Users/nishu/Documents/ChatGPT/prism/metadata_grounded_finalized_prcr_spvr_20261029/metadata_grounded_fold_summary.csv",
+    "main_summary": "/Users/nishu/Documents/ChatGPT/prism/metadata_grounded_finalized_prcr_spvr_20261029/metadata_grounded_main_summary.csv",
+    "targeted_adjudication_events": "/Users/nishu/Documents/ChatGPT/prism/metadata_grounded_finalized_prcr_spvr_20261029/metadata_targeted_adjudication_events.csv",
+    "targeted_adjudication_summary": "/Users/nishu/Documents/ChatGPT/prism/metadata_grounded_finalized_prcr_spvr_20261029/metadata_targeted_adjudication_summary.csv"
+  }
+}

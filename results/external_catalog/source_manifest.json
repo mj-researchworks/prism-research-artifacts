@@ -1,0 +1,32 @@
+{
+  "input": "/content/drive/MyDrive/AAA_PRISM_EXTERNAL_CATALOGUE_50K/PRISM_EXTERNAL_50K_READY.jsonl",
+  "out_dir": "/content/drive/MyDrive/prism/externaldata/data_50k",
+  "products": 50998,
+  "retrieval_rows": 50998,
+  "category_map_rows": 50998,
+  "duplicate_ids_renamed": 0,
+  "missing_title": 0,
+  "missing_text": 0,
+  "category_counts": {
+    "All_Beauty": 4000,
+    "Amazon_Fashion": 6999,
+    "Books": 3000,
+    "Electronics": 7000,
+    "Grocery_and_Gourmet_Food": 3999,
+    "Home_and_Kitchen": 7000,
+    "Office_Products": 4000,
+    "Pet_Supplies": 3000,
+    "Sports_and_Outdoors": 4000,
+    "Toys_and_Games": 4000,
+    "Video_Games": 4000
+  },
+  "bm25_written": true,
+  "files": {
+    "product_base_table": "/content/drive/MyDrive/prism/externaldata/data_50k/product_base_table.json",
+    "product_base_retrieval_text": "/content/drive/MyDrive/prism/externaldata/data_50k/product_base_retrieval/product_base_retrieval_text.json",
+    "product_category_map": "/content/drive/MyDrive/prism/externaldata/data_50k/product_category_map.json",
+    "product_base_category_map": "/content/drive/MyDrive/prism/externaldata/data_50k/product_base_category_map.json",
+    "bm25_index": "/content/drive/MyDrive/prism/externaldata/data_50k/product_base_retrieval/bm25_index.json",
+    "ids": "/content/drive/MyDrive/prism/externaldata/data_50k/product_base_retrieval/ids.json"
+  }
+}

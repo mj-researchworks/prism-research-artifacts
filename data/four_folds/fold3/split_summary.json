@@ -1,0 +1,67 @@
+{
+  "fold": "fold3",
+  "train": {
+    "n_conversations": 496,
+    "total_turns": 3397,
+    "avg_turns_per_conversation": 6.85,
+    "recommendation_bearing_conversations": 457,
+    "intent_distribution": {
+      "Reveal": 619,
+      "Interpret": 1092,
+      "Revise": 40,
+      "Chitchat": 167,
+      "Inquire": 12
+    },
+    "conv_id_hash": "4994be68bf0e3ab46374742a997e3316",
+    "first_conv_ids": [
+      "125581",
+      "52625",
+      "74517",
+      "77265",
+      "51649"
+    ]
+  },
+  "val": {
+    "n_conversations": 124,
+    "total_turns": 842,
+    "avg_turns_per_conversation": 6.79,
+    "recommendation_bearing_conversations": 114,
+    "intent_distribution": {
+      "Chitchat": 29,
+      "Reveal": 162,
+      "Interpret": 275,
+      "Revise": 10,
+      "Inquire": 2
+    },
+    "conv_id_hash": "57a1fc823157849066ad7684a24f7667",
+    "first_conv_ids": [
+      "21152",
+      "1156",
+      "91586",
+      "97376",
+      "88294"
+    ]
+  },
+  "test": {
+    "n_conversations": 206,
+    "total_turns": 1394,
+    "avg_turns_per_conversation": 6.77,
+    "recommendation_bearing_conversations": 188,
+    "intent_distribution": {
+      "Reveal": 250,
+      "Interpret": 446,
+      "Revise": 17,
+      "Chitchat": 72,
+      "Inquire": 3
+    },
+    "conv_id_hash": "f249e316c89ed21faf0d7142b2bacfa8",
+    "first_conv_ids": [
+      "114790",
+      "129760",
+      "14271",
+      "7792",
+      "126925"
+    ]
+  },
+  "leakage_check": "PASSED \u2014 no conversation appears in more than one split within this fold"
+}
