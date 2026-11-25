@@ -34,7 +34,20 @@ The revision outcome rates use the 370-event PRISM reference inventory for cover
 
 **PSCon.** Zou et al., *PSCon: Product Search Through Conversations*, SIGIR 2025. [Paper and DOI](https://doi.org/10.1145/3726302.3730278) · [Source dataset and CC BY 4.0 terms](https://github.com/JieZouIR/PSCon). This deposit includes the English data and the exact study splits.
 
-**Amazon Reviews 2023.** Obtain public source data from the [project page](https://amazon-reviews-2023.github.io/) or [Hugging Face distribution](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023). The maintainers do not assign a license or set downstream usage terms. Pending redistribution clearance, this deposit omits the processed product records for the 22,203-product main catalog and 50,998-product external catalog.
+### Main catalog (22,203 products)
 
-- Main catalog files held locally: `product_base_table.json`, `product_category_map.json`, and `product_base_category_map.json`. The precise source snapshot and full rebuild recipe are unavailable in the supplied records.
-- External catalog files held locally: `catalogue_source.json`, `product_base_table.json`, `product_category_map.json`, and `product_base_category_map.json`. See the [source manifest](results/external_catalog/source_manifest.json), [processing manifest](results/external_catalog/external_manifest.json), and [normalization code](code/external_catalog/prepare.py) for the recorded inputs and `external_schema_v1` processing. The pipeline requires the prepared source snapshot. Full inference also requires fold-specific E5 checkpoints and retrieval artifacts, which are outside this deposit, and an authorized API key.
+The main product table can be rebuilt byte for byte from the [English PSCon knowledge graph at commit `a7f34236`](https://github.com/JieZouIR/PSCon/blob/a7f34236b86108ee7af78ea6d9a408aca5782af0/dataset/knowledgeGraph_en.txt). Download that file, then run the [rebuild script](code/scripts/rebuild_main_catalog.py) from the repository root:
+
+```bash
+python3 code/scripts/rebuild_main_catalog.py /path/to/knowledgeGraph_en.txt /path/to/product_base_table.json
+```
+
+The rebuild parses product triples, normalizes whitespace, excludes dialogue feedback edges, and retains the last nonempty value for repeated attributes. The resulting table has SHA-256 `59aaf35f9fa32ec84a0d91190571b0b0caf3947801cba1b651692bc12271b26d`, which matches the archived table and all four original PRISM run manifests.
+
+The original category map survives locally as two identical files, `product_category_map.json` and `product_base_category_map.json`. Its SHA-256 is `8d2cb6c3ffa06d18069465b83c50d99ef667ba21b28acc3280e8448fd4cc22c9`. The original category assignment procedure has not been recovered. The archived July 10, 2026 retrieval build used this catalog with BM25 and a normalized FAISS index built using `all-MiniLM-L6-v2`. Exact regeneration of the original retrieval text and indexes has not been verified.
+
+### External catalog (50,998 products)
+
+The public Amazon Reviews 2023 source is available from the [project page](https://amazon-reviews-2023.github.io/) and [Hugging Face distribution](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023). The maintainers do not assign a license or set downstream usage terms. Pending redistribution clearance, the external files `catalogue_source.json`, `product_base_table.json`, `product_category_map.json`, and `product_base_category_map.json` are held locally. See the [source manifest](results/external_catalog/source_manifest.json), [processing manifest](results/external_catalog/external_manifest.json), and [normalization code](code/external_catalog/prepare.py) for the prepared inputs and `external_schema_v1` processing.
+
+Fresh inference also requires fold-specific E5 checkpoints, retrieval artifacts, and an authorized API key. The saved table exports need none of these files.

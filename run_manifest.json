@@ -1175,6 +1175,10 @@
       "sha256": "50349fd71ff364f589fe22fd82dd7d9b108ada34548ebb758eae027549e9efc0"
     },
     {
+      "path": "code/scripts/rebuild_main_catalog.py",
+      "sha256": "3270c33b5c6785e77a5215367c34235dcdce6a6451307b6bc51273a4980c93f8"
+    },
+    {
       "path": "code/scripts/smoke_behavior_candidate.py",
       "sha256": "1797fd3508d53ed0a186d28de7e9e99a2b4773b8f4270f67b34f3e95051f8de3"
     },
