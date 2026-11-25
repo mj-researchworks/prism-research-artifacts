@@ -10,21 +10,21 @@ From the repository root, run the following with Python 3:
 python3 code/reproduce_saved_tables.py
 ```
 
-The command writes 11 CSVs to `tables/`, one for each of Tables 1–11. It uses the Python standard library and the saved records, including the finalized scores and manual audit labels. No API credentials, model downloads, or product catalog files are needed. The separate catalog requirements below apply to fresh inference.
+The command writes 11 CSVs to `tables/`, one for each of IJIM Tables 2–12. Table 1 summarizes related work in the manuscript. If you already generated CSVs with an earlier release, move the old `tables/` directory aside before running the command. It uses the Python standard library and the saved records, including the finalized scores and manual audit labels. No API credentials, model downloads, or product catalog files are needed. The separate catalog requirements below apply to fresh inference.
 
 ## Files by manuscript section
 
 | Manuscript result | Location |
 | --- | --- |
-| Tables 1–2: evaluation partitions and system configurations | [English PSCon conversations](data/PSCon/) and [exact train, validation, and test splits](data/four_folds/). Each fold’s `test_conversations.json` contains the test requests and original PSCon annotations, including reference actions and recommended products where present. The exporter also writes the system configuration matrix. |
-| Tables 3–4: four-fold ranking | [PRISM](results/prism/), [single agent](results/single_agent/), and [fixed workflow](results/fixed_workflow/) contain `turns.csv`, `conversations.csv`, and `summary.json` for each fold. See the [per-fold ranking scores](results/revisions/ranking_by_fold.csv) and [four-fold means and standard deviations](results/revisions/ranking_mean_sd.csv). |
-| Table 5 and Figure 3: revision outcomes | [Matched outcomes for all 370 reference events](results/revisions/event_level_matched_370.csv) and [aggregate scores](results/revisions/matched_preference_metrics.json). |
-| Table 6 and Figure 4: Fold 3 component substitutions | [Three substitution runs](results/fold3_ablations/) and the [full PRISM Fold 3 reference](results/prism/fold3/). |
-| Table 7: critic diagnostic | [Event-level scores, summary, and method](results/critic_diagnostic/). |
-| Table 8: targeted manual audit | [Labels for all 28 manually audited events](results/manual_audit/advisor_manual_audit_sample_prcr_spvr.csv). |
-| Tables 9–10: metadata evidence and revision types | [Event decisions, evidence, and summaries](results/metadata_audit/). |
-| Table 11: external catalog | [Per-turn and per-conversation outputs, automatic diagnostics, and run settings](results/external_catalog/). |
-| Section 5.9 and Appendix A | For timing, use the PRISM turn records' `latency_ms` column. Sum per conversation, then average within and across folds. Appendix A's four turns are in [PRISM Fold 3](results/prism/fold3/turns.csv) under conversation ID `14271`. |
+| Tables 2–3: evaluation partitions and system configurations | [English PSCon conversations](data/PSCon/) and [exact train, validation, and test splits](data/four_folds/). Each fold’s `test_conversations.json` contains the test requests and original PSCon annotations, including reference actions and recommended products where present. The exporter also writes the system configuration matrix. |
+| Tables 4–5: four-fold ranking | [PRISM](results/prism/), [single agent](results/single_agent/), and [fixed workflow](results/fixed_workflow/) contain `turns.csv`, `conversations.csv`, and `summary.json` for each fold. See the [per-fold ranking scores](results/revisions/ranking_by_fold.csv) and [four-fold means and standard deviations](results/revisions/ranking_mean_sd.csv). |
+| Table 6: revision outcomes | [Matched outcomes for all 370 reference events](results/revisions/event_level_matched_370.csv) and [aggregate scores](results/revisions/matched_preference_metrics.json). |
+| Table 7: Fold 3 component substitutions | [Three substitution runs](results/fold3_ablations/) and the [full PRISM Fold 3 reference](results/prism/fold3/). |
+| Table 8: critic diagnostic | [Event-level scores, summary, and method](results/critic_diagnostic/). |
+| Table 9: targeted manual audit | [Labels for all 28 manually audited events](results/manual_audit/advisor_manual_audit_sample_prcr_spvr.csv). |
+| Tables 10–11: metadata evidence and revision types | [Event decisions, evidence, and summaries](results/metadata_audit/). |
+| Table 12: external catalog | [Per-turn and per-conversation outputs, automatic diagnostics, and run settings](results/external_catalog/). |
+| Section 5.9 and Appendix A | For timing, use the PRISM turn records' `latency_ms` column. Sum per conversation, then average within and across folds. Table A.1’s four turns are in [PRISM Fold 3](results/prism/fold3/turns.csv) under conversation ID `14271`. |
 
 `code/` contains the runtime, prompts, evaluators, and catalog processing scripts. The [run manifest](run_manifest.json) indexes the reported runs, metrics, recorded configurations, and source hashes. The model identifier is `deepseek-v4-flash` where recorded. The archived settings do not give an immutable provider revision or a complete record of main-run dependency versions and hardware.
 

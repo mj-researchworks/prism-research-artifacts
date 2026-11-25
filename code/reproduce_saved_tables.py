@@ -62,9 +62,9 @@ def main():
             "Test conversations": data["test"]["n_conversations"],
             "Test conversations with source recommendation action": data["test"]["recommendation_bearing_conversations"],
         })
-    write_csv("table01_fold_partitions_from_split_files.csv", split_rows)
+    write_csv("table02_fold_partitions_from_split_files.csv", split_rows)
 
-    # Table 2: configuration matrix for the three implemented systems.
+    # Table 3: configuration matrix for the three implemented systems.
     # These labels summarize the compared runtime configurations; the exact
     # executable behavior remains in the runtime source and run records.
     configuration_rows = [
@@ -77,15 +77,15 @@ def main():
         {"Setting": "Adaptive recovery", "Full PRISM": "Bounded", "Fixed workflow": "Disabled", "Single agent": "Disabled"},
         {"Setting": "Execution control", "Full PRISM": "Planner-guided", "Fixed workflow": "Fixed sequence", "Single agent": "Single LLM controller"},
     ]
-    write_csv("table02_system_configurations.csv", configuration_rows)
+    write_csv("table03_system_configurations.csv", configuration_rows)
 
-    # Tables 3-4: finalized fold-level and mean/SD comparison tables.
+    # Tables 4-5: finalized fold-level and mean/SD comparison tables.
     cmp_dir = AUDIT / "revisions"
-    copy_csv(cmp_dir / "ranking_by_fold.csv", "table03_ranking_by_fold.csv",
+    copy_csv(cmp_dir / "ranking_by_fold.csv", "table04_ranking_by_fold.csv",
              lambda r: r.get("System") == "Full PRISM")
-    copy_csv(cmp_dir / "ranking_mean_sd.csv", "table04_ranking_mean_sd.csv")
+    copy_csv(cmp_dir / "ranking_mean_sd.csv", "table05_ranking_mean_sd.csv")
 
-    # Table 5: pooled revision outcomes from the common 370-event inventory.
+    # Table 6: pooled revision outcomes from the common 370-event inventory.
     metrics = read_json(cmp_dir / "matched_preference_metrics.json")
     rows = []
     for system, block in metrics.items():
@@ -101,9 +101,9 @@ def main():
             "Unknown rate": p["unknown"], "Unknown": p["unknown_count"],
             "Compliant follow-ups per reference event": p["compliant_count"] / p["events"],
         })
-    write_csv("table05_revision_outcomes.csv", rows)
+    write_csv("table06_revision_outcomes.csv", rows)
 
-    # Table 6: manuscript Fold 3 component substitutions from saved run summaries.
+    # Table 7: manuscript Fold 3 component substitutions from saved run summaries.
     ablation_specs = [
         ("Full PRISM", RESULTS / "prism/fold3/summary.json"),
         ("Rule verifier", RESULTS / "fold3_ablations/no_llm_critic/summary.json"),
@@ -111,15 +111,15 @@ def main():
         ("Both rule substitutions", RESULTS / "fold3_ablations/no_llm_reflection_no_llm_critic/summary.json"),
     ]
     ablation_metrics = ["hit@3", "hit@5", "hit@10", "ndcg@10", "mrr", "search_hit_rate", "retrieval_miss_rate", "displayed_semantic_hit_rate"]
-    write_csv("table06_fold3_ablations.csv", [
+    write_csv("table07_fold3_ablations.csv", [
         {"System": label, **{m: read_json(path)[m] for m in ablation_metrics}}
         for label, path in ablation_specs
     ])
 
-    # Table 7: separate critic diagnostic (finalized analysis artifact).
-    copy_csv(AUDIT / "critic_diagnostic/fold3_critic_summary.csv", "table07_critic_diagnostic.csv")
+    # Table 8: separate critic diagnostic (finalized analysis artifact).
+    copy_csv(AUDIT / "critic_diagnostic/fold3_critic_summary.csv", "table08_critic_diagnostic.csv")
 
-    # Table 8: count the 28 human-audited cases by recorded manual label.
+    # Table 9: count the 28 human-audited cases by recorded manual label.
     audit_csv = AUDIT / "manual_audit/advisor_manual_audit_sample_prcr_spvr.csv"
     audit_rows = read_csv(audit_csv)
     labels = [r.get("Manual Audit Label", "") for r in audit_rows]
@@ -137,14 +137,14 @@ def main():
     }
     audit_out = [{"Audit category": name, "Count": counts.get(key, 0)} for key, name in label_map.items()]
     audit_out.append({"Audit category": "Total", "Count": sum(counts.values())})
-    write_csv("table08_manual_audit.csv", audit_out)
+    write_csv("table09_manual_audit.csv", audit_out)
 
-    # Tables 9-10: finalized metadata and revision-type summaries.
+    # Tables 10-11: finalized metadata and revision-type summaries.
     tax_dir = AUDIT / "metadata_audit"
-    copy_csv(tax_dir / "metadata_targeted_adjudication_summary.csv", "table09_metadata_evidence.csv")
-    copy_csv(tax_dir / "revision_type_taxonomy.csv", "table10_revision_type_taxonomy.csv")
+    copy_csv(tax_dir / "metadata_targeted_adjudication_summary.csv", "table10_metadata_evidence.csv")
+    copy_csv(tax_dir / "revision_type_taxonomy.csv", "table11_revision_type_taxonomy.csv")
 
-    # Table 11: rerun the saved deterministic diagnostic on saved JSONL only.
+    # Table 12: rerun the saved deterministic diagnostic on saved JSONL only.
     run_dir = RESULTS / "external_catalog"
     def read_jsonl(path):
         return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
@@ -180,7 +180,7 @@ def main():
                 total_revision_products += len(cur_ids)
                 zero_overlap += overlap == 0
                 repeated += overlap
-    table11 = {
+    external_diagnostics = {
         "Product-type match rate": sum(e.get("product_type_match") == 1 for e in evidence) / len(evidence),
         "Category-match rate": sum(e.get("category_match") == 1 for e in evidence) / len(evidence),
         "Mean semantic score": mean("semantic_score"),
@@ -191,8 +191,8 @@ def main():
         "Zero-overlap comparisons": f"{zero_overlap}/{revision_lists} ({zero_overlap/revision_lists:.4%})",
         "Revision-product novelty": f"{(total_revision_products-repeated)/total_revision_products:.4%}",
     }
-    write_csv("table11_external_catalog_diagnostics.csv",
-              [{"Measure": k, "Value": v} for k, v in table11.items()])
+    write_csv("table12_external_catalog_diagnostics.csv",
+              [{"Measure": k, "Value": v} for k, v in external_diagnostics.items()])
 
     if len(audit_rows) != 28 or sum(counts.values()) != 28:
         raise SystemExit(f"Expected 28 labeled audit rows, found {len(audit_rows)} rows / {sum(counts.values())} labels")
